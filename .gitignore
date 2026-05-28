@@ -2,6 +2,8 @@
 *
 
 !README.md
+!docs/
+!docs/**
 !mcp-datagouv-enhanced/
 !mcp-datagouv-enhanced/**
 !.cursor/

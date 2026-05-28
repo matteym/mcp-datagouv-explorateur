@@ -6,6 +6,8 @@
 Le MCP de base fait la recherche.  
 Ce projet ajoute une couche pratique pour le scoring et le ranking.
 
+![Aperçu du projet](docs/image.png)
+
 ## Deux approches differentes
 
 ### 1) Approche Agent (editeur de code / IA) - recommande
