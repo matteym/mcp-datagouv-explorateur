@@ -1,0 +1,13 @@
+# Tout le projet versionné est dans mcp-datagouv-enhanced/
+*
+
+!README.md
+!mcp-datagouv-enhanced/
+!mcp-datagouv-enhanced/**
+!.cursor/
+!.cursor/**
+!.gitignore
+
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/

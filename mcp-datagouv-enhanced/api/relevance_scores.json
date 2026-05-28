@@ -1,0 +1,615 @@
+{
+  "search_terms": [
+    "sport"
+  ],
+  "use_case": "application de referencement de l'occupation des terrains d'ile de france en temps reel",
+  "user_request": "datasets pertinents pour le sport en priorité ile-de-france IDF",
+  "geo_filter": "datasets pertinents pour le sport en priorité ile-de-france IDF",
+  "allowed_zones": [
+    "idf"
+  ],
+  "geo_mode": "zones=idf",
+  "kind": "api",
+  "scores": [
+    {
+      "id": "672cf669d5e4c56502e38b6d",
+      "title": "API Associations (RNA)",
+      "relevance": 0.025,
+      "reason": "API administrative sans lien avec la recherche (hors zones demandées (grand_est))"
+    },
+    {
+      "id": "69fc3894115f2a66891e1a24",
+      "title": "REP - Liste des producteurs enregistrés dans SYDEREP avec leur identifiant unique",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf66f5e554cca4a916026",
+      "title": "API Data ES",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "688c7ea9e4a690abc0d3aeec",
+      "title": "API Statut sportif de haut niveau et sur liste ministérielle - Sport Data Hub | Bouquet API Particulier",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "672cf99047934b1400769eb6",
+      "title": "Annuaire de l’Education Nationale",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6a011fa674fee4fae600f788",
+      "title": "Biens d'Utilité Publique - CA Saint-Quentin-en-Yvelines",
+      "relevance": 0.13,
+      "reason": "Hors sujet (recherche et cas d'usage) (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "6a0c71bfad1a1b6764036201",
+      "title": "Où louer une salle ?",
+      "relevance": 0.044,
+      "reason": "Hors sujet (recherche et cas d'usage) (département hors zones demandées)"
+    },
+    {
+      "id": "6a02f3dedc75e791ca41273b",
+      "title": "Espace public - Pictavie - Signalements depuis 2014",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6a010e10507017106cb4b608",
+      "title": "Modules des aires de jeux et parcours sportifs - CA Saint-Quentin-en-Yvelines",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "6a02f402d0043f0ba464d4f2",
+      "title": "Pictavie-Cumul mensuel des signalement d'anomalies sur l'espace public  pour la période2014_2024",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf69cc3488a0c533f7098",
+      "title": "Hub'Eau - Hydrométrie",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6a01189682c00eee338bb559",
+      "title": "Points d'Apport Volontaire - CA Saint-Quentin-en-Yvelines",
+      "relevance": 0.13,
+      "reason": "Hors sujet (recherche et cas d'usage) (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "6a011765927d7976dbbb8a06",
+      "title": "Bornes d'apport Volontaire - CA Saint-Quentin-en-Yvelines",
+      "relevance": 0.13,
+      "reason": "Hors sujet (recherche et cas d'usage) (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "6a011aed137ff4bb049f7865",
+      "title": "Secteur de collecte - CA Saint-Quentin-en-Yvelines",
+      "relevance": 0.13,
+      "reason": "Hors sujet (recherche et cas d'usage) (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672cf9c84eca9112724d8893",
+      "title": "API DPE bâtiments tertiaires",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6a0b16b315d9b475760c8064",
+      "title": "Production demi-horaire agrégée par région",
+      "relevance": 0.12,
+      "reason": "Hors sujet (recherche et cas d'usage) (périmètre régional (sous France nationale))"
+    },
+    {
+      "id": "6a0b16b14b0a4ac2f1136e5f",
+      "title": "Consommation agrégée demi-horaire des points de soutirage inférieurs à 36kVA par région",
+      "relevance": 0.12,
+      "reason": "Hors sujet (recherche et cas d'usage) (périmètre régional (sous France nationale))"
+    },
+    {
+      "id": "69fc1d4fb9ea7e25b015f065",
+      "title": "PCAET (v1) - Démarches - Partie 1-Entête",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "69fc1dc59098d5cfd3404a84",
+      "title": "PCAET (v2) - Démarches - Partie 1-Entête",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6a013f54f6c468b3d84f8697",
+      "title": "Acteurs de l'économie circulaire - Que faire de mes objets et déchets",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6a0b16b7a8231c6ed28843ed",
+      "title": "Consommation agrégée demi-horaire des points de soutirage supérieurs à 36kVA par région",
+      "relevance": 0.12,
+      "reason": "Hors sujet (recherche et cas d'usage) (périmètre régional (sous France nationale))"
+    },
+    {
+      "id": "69fc3182b084bcb6ee5809c3",
+      "title": "SINOE ® - Bilan des matrices des coûts par département",
+      "relevance": 0.044,
+      "reason": "Hors sujet (recherche et cas d'usage) (département hors zones demandées)"
+    },
+    {
+      "id": "672cf999cbc098058850c093",
+      "title": "API Professionnels RGE",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6a0316110db8e61ff95144c5",
+      "title": "Référentiel des distributeurs d'énergie",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6a0afacfe3360e0d4f9e9cbb",
+      "title": "Infrastructures de réseau de gaz",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "69fbe429aa89c151b6a5c5a9",
+      "title": "PCAET (v2) - Démarches - Partie 2",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "69fc1c6cae762ada3176d357",
+      "title": "PCAET (v2) - Démarches - Partie 4",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "69fc1cd75ce9fb51b3b00fbc",
+      "title": "PCAET (v2) - Démarches - Partie 3",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "69fc2113b9cd7806adba5bdf",
+      "title": "PCAET (v1) - Démarches - Partie 4",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "69fc1eb839a7abbf096f6ef8",
+      "title": "PCAET (v1) - Démarches - Partie 2",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "69fc2181cae07c39ac2a9a17",
+      "title": "PCAET (v1) - Démarches - Partie 3",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf6841092eab5f92dfaa7",
+      "title": "Hub'Eau - Hydrobiologie",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf69e20c9ae9747b40161",
+      "title": "Hub'Eau - Piézométrie",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf670ee9a5fed20dd93e4",
+      "title": "Hub'Eau - Qualité des cours d'eau",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "686d1ee8b267deea7b434baf",
+      "title": "API liens capitalistiques - DGFIP | Bouquet API Entreprise",
+      "relevance": 0.17,
+      "reason": "API administrative sans lien avec la recherche (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf6b622535e70b5584c0f",
+      "title": "API Extrait RCS - Infogreffe | Bouquet API Entreprise",
+      "relevance": 0.17,
+      "reason": "API administrative sans lien avec la recherche (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "67acdc5b2442665160389f62",
+      "title": "RIAL (Répertoire Inter-Administratif des Locaux)",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf6b120c9ae9747b40165",
+      "title": "API Chiffre d'affaires - DGFIP | Bouquet API Entreprise",
+      "relevance": 0.17,
+      "reason": "API administrative sans lien avec la recherche (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6690724606c7bfb7ba1ff6ba",
+      "title": "Service de visualisation de données pour les Territoire à risque d’inondation (TRI) du SIG Directive inondation - Guyane - rapportage 2020",
+      "relevance": 0.028,
+      "reason": "API administrative sans lien avec la recherche (département hors zones demandées)"
+    },
+    {
+      "id": "675ccaf2ca9ad114f7b02f31",
+      "title": "Service de visualisation de données pour les Territoire à risque d’inondation (TRI) du SIG Directive inondation - La Réunion - rapportage 2013",
+      "relevance": 0.028,
+      "reason": "API administrative sans lien avec la recherche (département hors zones demandées)"
+    },
+    {
+      "id": "66907211da7ca9d1f11ff6af",
+      "title": "Explore API v2 https://opendata-corse-outremer.edf.fr",
+      "relevance": 0.12,
+      "reason": "Hors sujet (recherche et cas d'usage) (périmètre régional (sous France nationale))"
+    },
+    {
+      "id": "672cf6a2a37a79f6ff3e3251",
+      "title": "Hub'Eau - Ecoulement des cours d'eau",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf68da474f2d73502b5d2",
+      "title": "Hub'Eau - Prélèvements en eau",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf67955292111be09eff9",
+      "title": "Hub'Eau - Qualité des nappes d'eau souterraine",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf656403bf419125795dd",
+      "title": "API info-financière",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf69265f131fae343442a",
+      "title": "API Bulletin des Annonces Légales Obligatoires (BALO)",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf68c65f131fae3434429",
+      "title": "API données ouvertes de Loire-Atlantique",
+      "relevance": 0.044,
+      "reason": "Hors sujet (recherche et cas d'usage) (département hors zones demandées)"
+    },
+    {
+      "id": "672cf9c0cbc098058850c094",
+      "title": "API Prix des contrôles techniques",
+      "relevance": 0.044,
+      "reason": "Hors sujet (recherche et cas d'usage) (département hors zones demandées)"
+    },
+    {
+      "id": "672cf98bba3bba62085cd925",
+      "title": "API données ouvertes de l’Urssaf",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf6a5a37a79f6ff3e3252",
+      "title": "API Annuaire de l’administration - compétence géographique des services locaux",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf663d5e4c56502e38b6c",
+      "title": "API Annonces officielles et comptes annuels des associations",
+      "relevance": 0.17,
+      "reason": "API administrative sans lien avec la recherche (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "68089b65813588519f57c5a0",
+      "title": "Explore API v2 https://twisto-caen.opendatasoft.com",
+      "relevance": 0.04,
+      "reason": "Hors sujet (recherche et cas d'usage) (hors zones demandées (normandie))"
+    },
+    {
+      "id": "688797a40fae895e18ee54f0",
+      "title": "Explore API v2 https://data.teo-paysdelaloire.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf9be6136ac3468829101",
+      "title": "API données ouvertes de l’Éducation Nationale",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf9ba5a5cfb9784ec860f",
+      "title": "API calendrier scolaire",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072528069509c921ff6b5",
+      "title": "Explore API v2 https://data.cannes.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf66ea47b8d4c15d13d5b",
+      "title": "API Bulletin officiel des annonces civiles et commerciales (BODACC)",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "66907228354bf2df921ff6ba",
+      "title": "Explore API v2 https://data.lamayenne.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6690722a1f100ac2481ff6ae",
+      "title": "Explore API v2 https://open.urssaf.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "672cf645e35d4f6741f6bfa6",
+      "title": "API Annuaire de l’administration et des services publics",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6690729ada7ca9d1f11ff6c5",
+      "title": "Explore API v2 https://boulognebillancourt-seineouest.opendatasoft.com",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "66fb3b9df38a0ba45a679c35",
+      "title": "Explore API v2 https://data.saintnazaireagglo.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "68d66853372546ccfac0bceb",
+      "title": "Explore API v2 https://data.sarthe.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072c78069509c921ff6bd",
+      "title": "Explore API v2 https://bpce.opendatasoft.com",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072c51f100ac2481ff6c5",
+      "title": "Explore API v2 https://chaville-seineouest.opendatasoft.com",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072a891994f3bce1ff6bc",
+      "title": "Explore API v2 https://opendata.doubs.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072fd76f052df100f7fae",
+      "title": "Explore API v2 https://data.paysdelaloire.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6690728976f052df100f7fa7",
+      "title": "Explore API v2 https://data.laregion.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072f2fba98e775b0f7fad",
+      "title": "Explore API v2 https://data.idelis.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072c9da7ca9d1f11ff6d2",
+      "title": "Explore API v2 https://data.ofgl.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6690725b91994f3bce1ff6b1",
+      "title": "Explore API v2 https://anglet-opendatapaysbasque.opendatasoft.com",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "67f5bb0e03325228295b7e9c",
+      "title": "Explore API v2 https://datahub.bordeaux-metropole.fr",
+      "relevance": 0.04,
+      "reason": "Hors sujet (recherche et cas d'usage) (hors zones demandées (aquitaine))"
+    },
+    {
+      "id": "669072da3dc4e324bf1ff6b6",
+      "title": "Explore API v2 https://vanves-seineouest.opendatasoft.com",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "66907270e711c91c601ff6c0",
+      "title": "Explore API v2 https://zabal-agriculture.opendata-paysbasque.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "69c5cd9e27d3c900d52719e2",
+      "title": "Explore API v2 https://data.agglo-carene.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669073208ab80396451ff6b7",
+      "title": "Explore API v2 https://data.unedic.org",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "66907206fba98e775b0f7f96",
+      "title": "Explore API v2 https://opendata.aude.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6691c404886d1b67b41ff6b9",
+      "title": "Explore API v2 https://data.grandparissud.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "66907202e711c91c601ff6ad",
+      "title": "Explore API v2 https://data.sicoval.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072bf76f052df100f7fab",
+      "title": "Explore API v2 https://enseignement-agricole.opendatasoft.com",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6690726191994f3bce1ff6b6",
+      "title": "Explore API v2 https://data.seineouest.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072e53dc4e324bf1ff6b8",
+      "title": "Explore API v2 https://opendata.ha-py.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072f4fba98e775b0f7faf",
+      "title": "Explore API v2 https://data.eurelien.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6690725d0fd97cb0a91ff6b5",
+      "title": "Explore API v2 https://opendata.caissedesdepots.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6690726791994f3bce1ff6b9",
+      "title": "Explore API v2 https://opendata.hauts-de-seine.fr",
+      "relevance": 0.13,
+      "reason": "Hors sujet (recherche et cas d'usage) (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "6690721b354bf2df921ff6b3",
+      "title": "Explore API v2 https://data.regionreunion.com",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6690721bfba98e775b0f7f9a",
+      "title": "Explore API v2 https://data.agglo-montargoise.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6a0eba354780a16c39e21bae",
+      "title": "Explore API v2 https://data.seinesaintdenis.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072f01f100ac2481ff6cf",
+      "title": "Explore API v2 https://opendata.clermontmetropole.eu",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "68f187a12c4ca61855ff199f",
+      "title": "Explore API v2 https://data.twisto.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "66907311e711c91c601ff708",
+      "title": "Explore API v2 https://data.metropole-rouen-normandie.fr",
+      "relevance": 0.04,
+      "reason": "Hors sujet (recherche et cas d'usage) (hors zones demandées (normandie))"
+    },
+    {
+      "id": "669073071f100ac2481ff6d1",
+      "title": "Explore API v2 https://opendata.isere.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "66907256da7ca9d1f11ff6bf",
+      "title": "Explore API v2 https://data.strasbourg.eu",
+      "relevance": 0.04,
+      "reason": "Hors sujet (recherche et cas d'usage) (hors zones demandées (grand_est))"
+    },
+    {
+      "id": "67d2f68d7563a4b5f1cbfe8a",
+      "title": "Explore API v2 https://data.cc-autourdechenonceaux.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669072548069509c921ff6b8",
+      "title": "Explore API v2 https://datavaccin-covid.ameli.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "6691c3857eec3861d61ff6ad",
+      "title": "Explore API v2 https://data.villedavray.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "66907219e711c91c601ff6b4",
+      "title": "Explore API v2 https://data.tours-metropole.fr",
+      "relevance": 0.12,
+      "reason": "Hors sujet (recherche et cas d'usage) (périmètre régional (sous France nationale))"
+    },
+    {
+      "id": "669072a8fba98e775b0f7fa5",
+      "title": "Explore API v2 https://data.orleans-metropole.fr",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région); API peu liée au terme)"
+    },
+    {
+      "id": "669073571f100ac2481ff6d6",
+      "title": "Explore API v2 https://data.bretagne.bzh",
+      "relevance": 0.04,
+      "reason": "Hors sujet (recherche et cas d'usage) (hors zones demandées (bretagne))"
+    },
+    {
+      "id": "669072338069509c921ff6b2",
+      "title": "Explore API v2 https://data.normandie.education.gouv.fr",
+      "relevance": 0.04,
+      "reason": "Hors sujet (recherche et cas d'usage) (hors zones demandées (normandie))"
+    }
+  ]
+}

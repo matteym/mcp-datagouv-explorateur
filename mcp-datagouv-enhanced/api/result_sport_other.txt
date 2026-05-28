@@ -1,0 +1,1166 @@
+
+========== sport | page 1 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 1 of results:
+
+1. API Associations (RNA)
+   ID: 672cf669d5e4c56502e38b6d
+   Description: ### À quoi sert l’API Associations (version opendata) ?
+
+L'[API Associations de la DJEPVA](https://www.associations.gouv.fr/les-api-et-autres-outils.html) délivre les informations et documents de réfé...
+   Organization: Ministère chargé des Sports
+   Base API URL: https://siva-integ1.cegedim.cloud/apim/api-asso/api/
+   Tags: administration-et-legislation, affiliation, agrement, alsace-moselle, associations
+   URL: https://www.data.gouv.fr/dataservices/672cf669d5e4c56502e38b6d
+   Métriques popularité: 15716 visites, 12294 téléchargements (proxy dataset « Recensement des équipements sportifs, espaces et s »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Recensement des équipements sportifs, espaces et s »)
+
+2. REP - Liste des producteurs enregistrés dans SYDEREP avec leur identifiant unique
+   ID: 69fc3894115f2a66891e1a24
+   Description: ### Le jeu de données
+
+Il comprend la **liste des producteurs des filières à Responsabilité élargie du producteur (REP) enregistrés dans SYDEREP avec leur identifiant unique (IDU)** conformément à [l’...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/rep-producteurs-idu/
+   URL: https://www.data.gouv.fr/dataservices/69fc3894115f2a66891e1a24
+   Métriques popularité: 20057 visites, 3163 téléchargements (proxy dataset « Effectifs d'étudiants inscrits dans les établissem »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Effectifs d'étudiants inscrits dans les établissem »)
+
+3. API Data ES
+   ID: 672cf66f5e554cca4a916026
+   Description: Cette API est le point d’entrée à la base de données des équipements sportifs et des lieux de pratiques du ministère chargé des Sports. Celle-ci est mise à jour quotidiennement grâce à nos équipes d'e...
+   Organization: Ministère chargé des Sports
+   Base API URL: https://equipements.sports.gouv.fr/api/explore/v2.1
+   Tags: data, equipements, jeux-olympiques, sport
+   URL: https://www.data.gouv.fr/dataservices/672cf66f5e554cca4a916026
+   Métriques popularité: 2507 visites, 1139 téléchargements (proxy dataset « Paris 2024 - Sites de compétition »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Paris 2024 - Sites de compétition »)
+
+4. API Statut sportif de haut niveau et sur liste ministérielle - Sport Data Hub | Bouquet API Particulier
+   ID: 688c7ea9e4a690abc0d3aeec
+   Description: > L'[API Statut sportif de haut niveau et sur liste ministérielle - Sport Data Hub | Bouquet API Particulier](https://particulier.api.gouv.fr/catalogue/sport_data_hub/statut_sportif) permet  de savoir...
+   Organization: Direction interministérielle du numérique
+   Base API URL: https://particulier.api.gouv.fr
+   URL: https://www.data.gouv.fr/dataservices/688c7ea9e4a690abc0d3aeec
+   Métriques popularité: 1439 visites, 673 téléchargements (proxy dataset « Athlètes inscrits sur la liste des sportifs de hau »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Athlètes inscrits sur la liste des sportifs de hau »)
+
+5. Annuaire de l’Education Nationale
+   ID: 672cf99047934b1400769eb6
+   Description: L’API annuaire de l’Education Nationale donne accès aux caractéristiques et aux informations de contact des établissements de l'Éducation nationale.
+
+### A quoi sert l'API annuaire de l’Education Nati...
+   Organization: Ministères de l'Éducation nationale
+   Base API URL: https://data.education.gouv.fr/api/v2
+   Tags: annuaire, college, contact, ecole, education
+   URL: https://www.data.gouv.fr/dataservices/672cf99047934b1400769eb6
+   Métriques popularité: 1922 visites, 204 téléchargements (proxy dataset « Séries chronologiques Education »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Séries chronologiques Education »)
+
+
+
+========== sport | page 2 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 2 of results:
+
+1. Biens d'Utilité Publique - CA Saint-Quentin-en-Yvelines
+   ID: 6a011fa674fee4fae600f788
+   Description: <div><p>Recensement de l'ensemble des informations sur le Biens Immobiliers d'Utilité Publique (BIBUP) de Saint-Quentin-en-Yvelines dont le champ recouvre :</p><ul><li><p>Les Biens immobiliers Bâtis a...
+   Organization: SAINT-QUENTIN-EN-YVELINES
+   Base API URL: https://opendata.sqy.fr/data-fair/api/v1/datasets/biens-dutilite-publique-ca-saint-quentin-en-yvelines/
+   URL: https://www.data.gouv.fr/dataservices/6a011fa674fee4fae600f788
+   Métriques popularité: 87393 visites, 42470 téléchargements (proxy dataset « Associations Reconnues d'Utilité Publique »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Associations Reconnues d'Utilité Publique »)
+
+2. Où louer une salle ?
+   ID: 6a0c71bfad1a1b6764036201
+   Description: Ce tableau recense les salles qui peuvent être disponibles à la location à Grand Poitiers. 
+La donnée est collectée par la direction Vie associative-Cohésion sociale aux termes d'une convention signée...
+   Organization: Grand Poitiers Open Data
+   Base API URL: https://data.grandpoitiers.fr/data-fair/api/v1/datasets/ou-louer-une-salle-3/
+   URL: https://www.data.gouv.fr/dataservices/6a0c71bfad1a1b6764036201
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Espace public - Pictavie - Signalements depuis 2014
+   ID: 6a02f3dedc75e791ca41273b
+   Description: **Le service PICTAVIE :**
+
+PICTAVIE est un service ouvert depuis 2004. Il a pour objectif de recevoir et d’enregistrer les dysfonctionnements repérés sur l’espace public par les usagers. Il est joigna...
+   Organization: Grand Poitiers Open Data
+   Base API URL: https://data.grandpoitiers.fr/data-fair/api/v1/datasets/espace-public-pictavie-signalements-depuis-2014/
+   URL: https://www.data.gouv.fr/dataservices/6a02f3dedc75e791ca41273b
+   Métriques popularité: 2528 visites, 762 téléchargements (proxy dataset « Liste des médailles obtenues par des sportifs fran »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Liste des médailles obtenues par des sportifs fran »)
+
+4. Modules des aires de jeux et parcours sportifs - CA Saint-Quentin-en-Yvelines
+   ID: 6a010e10507017106cb4b608
+   Description: <p class="MsoNormal"><span>Cette c</span><span>ouche</span><span> répertorie les modules installés sur l’agglomération de SQY</span></p><p class="MsoNormal"><span>Les modules représentent l’équipement...
+   Organization: SAINT-QUENTIN-EN-YVELINES
+   Base API URL: https://opendata.sqy.fr/data-fair/api/v1/datasets/modules-des-aires-de-jeux-et-parcours-sportifs-ca-saint-quentin-en-yvelines/
+   URL: https://www.data.gouv.fr/dataservices/6a010e10507017106cb4b608
+   Métriques popularité: 2528 visites, 762 téléchargements (proxy dataset « Liste des médailles obtenues par des sportifs fran »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Liste des médailles obtenues par des sportifs fran »)
+
+5. Pictavie-Cumul mensuel des signalement d'anomalies sur l'espace public  pour la période2014_2024
+   ID: 6a02f402d0043f0ba464d4f2
+   Description: **Le service Pictavie :**
+
+PICTAVIE est un service ouvert depuis 2004. Il a pour objectif de recevoir et d’enregistrer les dysfonctionnements repérés sur l’espace public par les usagers. Il est joigna...
+   Organization: Grand Poitiers Open Data
+   Base API URL: https://data.grandpoitiers.fr/data-fair/api/v1/datasets/espace-public-signalement-des-anomalies-sur-lespace-public-par-service20142024/
+   URL: https://www.data.gouv.fr/dataservices/6a02f402d0043f0ba464d4f2
+   Métriques popularité: 535 visites, 151 téléchargements (proxy dataset « Jeux Olympiques et Paralympiques 2024 : exposition »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Jeux Olympiques et Paralympiques 2024 : exposition »)
+
+
+
+========== sport | page 3 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 3 of results:
+
+1. Hub'Eau - Hydrométrie
+   ID: 672cf69cc3488a0c533f7098
+   Description: Hydrométrie temps réel
+Les données de [l'API "Hydrométrie"](https://hubeau.eaufrance.fr/page/api-hydrometrie) de Hub'Eau sont issues de la Plate-forme HYDRO Centrale (PHyC), opérée par le Service Cent...
+   Organization: Hub’eau
+   Base API URL: https://hubeau.eaufrance.fr/api/v2/hydrometrie
+   Tags: cours-deau, debit, environnement, fleuve, hauteur-deau
+   URL: https://www.data.gouv.fr/dataservices/672cf69cc3488a0c533f7098
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. Points d'Apport Volontaire - CA Saint-Quentin-en-Yvelines
+   ID: 6a01189682c00eee338bb559
+   Description: <div><p><span></span></p><p>Cette donnée répertorie les points d'apports volontaires (PAV) installées et gérés par Saint-Quentin-en-Yvelines.<br /></p><p><span><span>Cette donnée est étroitement liée ...
+   Organization: SAINT-QUENTIN-EN-YVELINES
+   Base API URL: https://opendata.sqy.fr/data-fair/api/v1/datasets/points-dapport-volontaire-ca-saint-quentin-en-yvelines/
+   URL: https://www.data.gouv.fr/dataservices/6a01189682c00eee338bb559
+   Métriques popularité: 2185 visites, 3928 téléchargements (proxy dataset « Covid 19 - points de situation nationaux »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Covid 19 - points de situation nationaux »)
+
+3. Bornes d'apport Volontaire - CA Saint-Quentin-en-Yvelines
+   ID: 6a011765927d7976dbbb8a06
+   Description: <p><span>Cette donnée répertorie les bornes d'apports volontaires (PAV) installées et gérées par Saint-Quentin-en-Yvelines.</span><br /><span>Cette donnée est étroitement liée aux points d'apport volo...
+   Organization: SAINT-QUENTIN-EN-YVELINES
+   Base API URL: https://opendata.sqy.fr/data-fair/api/v1/datasets/bornes-dapport-volontaire-ca-saint-quentin-en-yvelines/
+   URL: https://www.data.gouv.fr/dataservices/6a011765927d7976dbbb8a06
+   Métriques popularité: 922 visites, 372 téléchargements (proxy dataset « Carte des licenciés sportifs dans les Yvelines »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Carte des licenciés sportifs dans les Yvelines »)
+
+4. Secteur de collecte - CA Saint-Quentin-en-Yvelines
+   ID: 6a011aed137ff4bb049f7865
+   Description: <div>Cette donnée identifie les secteurs de collecte mise en place par Saint-Quentin-en-Yvelines.<br /><p><span><br />Informations générales de la classe d'entité</span></p><ul><li><p><span>Origine ou...
+   Organization: SAINT-QUENTIN-EN-YVELINES
+   Base API URL: https://opendata.sqy.fr/data-fair/api/v1/datasets/secteur-de-collecte-ca-saint-quentin-en-yvelines/
+   URL: https://www.data.gouv.fr/dataservices/6a011aed137ff4bb049f7865
+   Métriques popularité: 922 visites, 372 téléchargements (proxy dataset « Carte des licenciés sportifs dans les Yvelines »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Carte des licenciés sportifs dans les Yvelines »)
+
+5. API DPE bâtiments tertiaires
+   ID: 672cf9c84eca9112724d8893
+   Description: Le recensement des diagnostics de performance énergétique (DPE) des bâtiments tertiaires
+Depuis le 2 janvier 2008, le diagnostic de performance énergétique de certains bâtiments doit être affiché dans...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/dpe-tertiaire
+   Tags: ademe, adresse, batiments-publics, diagnostics-de-performance-energetique, dpe
+   URL: https://www.data.gouv.fr/dataservices/672cf9c84eca9112724d8893
+   Métriques popularité: 701 visites, 160 téléchargements (proxy dataset « Equipements publics de sport et loisirs sur le ter »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Equipements publics de sport et loisirs sur le ter »)
+
+
+
+========== sport | page 4 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 4 of results:
+
+1. Production demi-horaire agrégée par région
+   ID: 6a0b16b315d9b475760c8064
+   Description: <p><span>Ce jeu de données présente une agrégation de la production d’électricité à pas 30 minutes en Wh pour les points d'injection (tout niveau de puissance). Le nombre de points d'injection concern...
+   Organization: Agence ORE
+   Base API URL: https://opendata.agenceore.fr/data-fair/api/v1/datasets/production-demi-horaire-agregee-par-region/
+   URL: https://www.data.gouv.fr/dataservices/6a0b16b315d9b475760c8064
+   Métriques popularité: 17616 visites, 9733 téléchargements (proxy dataset « Données géocodées issues du recensement des licenc »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Données géocodées issues du recensement des licenc »)
+
+2. Consommation agrégée demi-horaire des points de soutirage inférieurs à 36kVA par région
+   ID: 6a0b16b14b0a4ac2f1136e5f
+   Description: <p>Ce jeu de données présente une agrégation de la consommation d’électricité à pas 30 minutes en Wh pour les points de livraison dont la puissance est inférieure à 36kVA. </p><p>Le nombre de points d...
+   Organization: Agence ORE
+   Base API URL: https://opendata.agenceore.fr/data-fair/api/v1/datasets/consommation-agregee-demi-horaire-des-points-de-soutirage-inferieurs-a-36kva-par-region-virtuel/
+   URL: https://www.data.gouv.fr/dataservices/6a0b16b14b0a4ac2f1136e5f
+   Métriques popularité: 17616 visites, 9733 téléchargements (proxy dataset « Données géocodées issues du recensement des licenc »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Données géocodées issues du recensement des licenc »)
+
+3. PCAET (v1) - Démarches - Partie 1-Entête
+   ID: 69fc1d4fb9ea7e25b015f065
+   Description: Les collectivités devant mettre en œuvre un plan climat-air-énergie territorial (PCAET) au titre de l’article L229-26 du code de l’environnement : 
+
+* ont la possibilité de déposer leur projet de PCAE...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/pcaet-demarches-partie-1-entete/
+   URL: https://www.data.gouv.fr/dataservices/69fc1d4fb9ea7e25b015f065
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. PCAET (v2) - Démarches - Partie 1-Entête
+   ID: 69fc1dc59098d5cfd3404a84
+   Description: Les collectivités devant mettre en œuvre un plan climat-air-énergie territorial (PCAET) au titre de l’article L229-26 du code de l’environnement : 
+
+*	ont la possibilité de déposer leur projet de PCAE...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/pcaet-(v2)-demarches-partie-1-entete/
+   URL: https://www.data.gouv.fr/dataservices/69fc1dc59098d5cfd3404a84
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. Acteurs de l'économie circulaire - Que faire de mes objets et déchets
+   ID: 6a013f54f6c468b3d84f8697
+   Description: ### **Description**
+Ce jeu de données ouvertes, proposé dans le cadre du projet numérique “[Que Faire De Mes Objets et Déchets](https://quefairedemesdechets.ademe.fr/qui-sommes-nous/)” de l'ADEME, est...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/longue-vie-aux-objets-acteurs-de-leconomie-circulaire/
+   URL: https://www.data.gouv.fr/dataservices/6a013f54f6c468b3d84f8697
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+
+
+========== sport | page 5 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 5 of results:
+
+1. Consommation agrégée demi-horaire des points de soutirage supérieurs à 36kVA par région
+   ID: 6a0b16b7a8231c6ed28843ed
+   Description: Ce jeu de données présente une agrégation de la consommation d’électricité à pas 30 minutes en Wh pour les points de livraison dont la puissance est supérieure à 36kVA. 
+
+Le nombre de points de livrai...
+   Organization: Agence ORE
+   Base API URL: https://opendata.agenceore.fr/data-fair/api/v1/datasets/consommation-agregee-demi-horaire-des-points-de-soutirage-superieurs-a-36kva-par/
+   URL: https://www.data.gouv.fr/dataservices/6a0b16b7a8231c6ed28843ed
+   Métriques popularité: 17616 visites, 9733 téléchargements (proxy dataset « Données géocodées issues du recensement des licenc »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Données géocodées issues du recensement des licenc »)
+
+2. SINOE ® - Bilan des matrices des coûts par département
+   ID: 69fc3182b084bcb6ee5809c3
+   Description: Ce jeu de données représente le suivi de l'avancement de la saisie et de la validation des matrices des coûts par acteur SINOE.		
+...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/sinoe-(r)-bilan-matrices-par-departement/
+   URL: https://www.data.gouv.fr/dataservices/69fc3182b084bcb6ee5809c3
+   Métriques popularité: 17616 visites, 9733 téléchargements (proxy dataset « Données géocodées issues du recensement des licenc »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Données géocodées issues du recensement des licenc »)
+
+3. API Professionnels RGE
+   ID: 672cf999cbc098058850c093
+   Description: L'ADEME et les pouvoirs publics accordent la mention "Reconnu Garant de l'Environnement" (RGE) aux entreprises à l'origine de travaux ou d'études **concourant à la rénovation énergétique ou à l’instal...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/liste-des-entreprises-rge-2
+   Tags: ademe, environnement, performance-energetique, professionnels, rge
+   URL: https://www.data.gouv.fr/dataservices/672cf999cbc098058850c093
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Référentiel des distributeurs d'énergie
+   ID: 6a0316110db8e61ff95144c5
+   Description: <p><i><span>Ce jeu de données est utilisé pour enrichir les
+informations sur les distributeurs d’énergie par commune et permettre leur
+visualisation. Les coordonnées géographiques des points sont obte...
+   Organization: Agence ORE
+   Base API URL: https://opendata.agenceore.fr/data-fair/api/v1/datasets/referentiel-distributeurs-denergie/
+   URL: https://www.data.gouv.fr/dataservices/6a0316110db8e61ff95144c5
+   Métriques popularité: 1297 visites, 258 téléchargements (proxy dataset « Référentiel d’activités physiques et sportives »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Référentiel d’activités physiques et sportives »)
+
+5. Infrastructures de réseau de gaz
+   ID: 6a0afacfe3360e0d4f9e9cbb
+   Description: <div><div><p>
+ Ce jeu de données représente la position des canalisations des réseaux des gestionnaires de réseau de distribution de gaz.<br /></p>
+<p>
+	<em>Les données sont mises à disposition à titr...
+   Organization: Agence ORE
+   Base API URL: https://opendata.agenceore.fr/data-fair/api/v1/datasets/infrastructures-reseau-gaz/
+   URL: https://www.data.gouv.fr/dataservices/6a0afacfe3360e0d4f9e9cbb
+   Métriques popularité: 3995 visites, 179 téléchargements (proxy dataset « Estimation des émissions carbone des Jeux Olympiqu »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Estimation des émissions carbone des Jeux Olympiqu »)
+
+
+
+========== sport | page 6 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 6 of results:
+
+1. PCAET (v2) - Démarches - Partie 2
+   ID: 69fbe429aa89c151b6a5c5a9
+   Description: Les collectivités devant mettre en œuvre un plan climat-air-énergie territorial (PCAET) au titre de l’article L229-26 du code de l’environnement : 
+
+*	ont la possibilité de déposer leur projet de PCAE...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/pcaet-(v2)-demarches-partie-2/
+   URL: https://www.data.gouv.fr/dataservices/69fbe429aa89c151b6a5c5a9
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. PCAET (v2) - Démarches - Partie 4
+   ID: 69fc1c6cae762ada3176d357
+   Description: Les collectivités devant mettre en œuvre un plan climat-air-énergie territorial (PCAET) au titre de l’article L229-26 du code de l’environnement :  
+
+*	ont la possibilité de déposer leur projet de PCA...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/pcaet-(v2)-demarches-partie-4/
+   URL: https://www.data.gouv.fr/dataservices/69fc1c6cae762ada3176d357
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. PCAET (v2) - Démarches - Partie 3
+   ID: 69fc1cd75ce9fb51b3b00fbc
+   Description: Les collectivités devant mettre en œuvre un plan climat-air-énergie territorial (PCAET) au titre de l’article L229-26 du code de l’environnement : 
+
+*	ont la possibilité de déposer leur projet de PCAE...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/pcaet-(v2)-demarches-partie-3/
+   URL: https://www.data.gouv.fr/dataservices/69fc1cd75ce9fb51b3b00fbc
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. PCAET (v1) - Démarches - Partie 4
+   ID: 69fc2113b9cd7806adba5bdf
+   Description: Les collectivités devant mettre en œuvre un plan climat-air-énergie territorial (PCAET) au titre de l’article L229-26 du code de l’environnement : 
+
+*	ont la possibilité de déposer leur projet de PCAE...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/pcaet-demarches-partie-4/
+   URL: https://www.data.gouv.fr/dataservices/69fc2113b9cd7806adba5bdf
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. PCAET (v1) - Démarches - Partie 2
+   ID: 69fc1eb839a7abbf096f6ef8
+   Description: Les collectivités devant mettre en œuvre un plan climat-air-énergie territorial (PCAET) au titre de l’article L229-26 du code de l’environnement : 
+
+*	ont la possibilité de déposer leur projet de PCAE...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/pcaet-demarches-partie-2/
+   URL: https://www.data.gouv.fr/dataservices/69fc1eb839a7abbf096f6ef8
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+
+
+========== sport | page 7 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 7 of results:
+
+1. PCAET (v1) - Démarches - Partie 3
+   ID: 69fc2181cae07c39ac2a9a17
+   Description: Les collectivités devant mettre en œuvre un plan climat-air-énergie territorial (PCAET) au titre de l’article L229-26 du code de l’environnement : 
+
+*	ont la possibilité de déposer leur projet de PCAE...
+   Organization: ADEME
+   Base API URL: https://data.ademe.fr/data-fair/api/v1/datasets/pcaet-demarches-partie-3/
+   URL: https://www.data.gouv.fr/dataservices/69fc2181cae07c39ac2a9a17
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. Hub'Eau - Hydrobiologie
+   ID: 672cf6841092eab5f92dfaa7
+   Description: [L'API Hydrobiologie](https://hubeau.eaufrance.fr/page/api-hydrobiologie) de Hub'Eau diffuse les données de peuplement des cours d'eau bancarisées par le [portail NAIADES](http://www.naiades.eaufrance...
+   Organization: Hub’eau
+   Base API URL: https://hubeau.eaufrance.fr/api
+   Tags: cours-deau, diatomee, environnement, fleuve, hydrobiologie
+   URL: https://www.data.gouv.fr/dataservices/672cf6841092eab5f92dfaa7
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Hub'Eau - Piézométrie
+   ID: 672cf69e20c9ae9747b40161
+   Description: Piézométrie (niveau des nappes d'eau souterraine)
+[L'API Piézométrie](https://hubeau.eaufrance.fr/page/api-piezometrie) de Hub'Eau permet d'accéder aux données sur le niveau des nappes d'eau souterrai...
+   Organization: Hub’eau
+   Base API URL: https://hubeau.eaufrance.fr/api
+   Tags: aquifere, eau-souterraine, environnement, hydrogeologie, nappe
+   URL: https://www.data.gouv.fr/dataservices/672cf69e20c9ae9747b40161
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Hub'Eau - Qualité des cours d'eau
+   ID: 672cf670ee9a5fed20dd93e4
+   Description: [L'API Qualité des cours d'eau](http://hubeau.eaufrance.fr/page/api-qualite-cours-deau) de Hub'Eau permet d'accéder aux données sur la qualité physico-chimique des fleuves, rivières et plans d'eau.
+
+#...
+   Organization: Hub’eau
+   Base API URL: https://hubeau.eaufrance.fr/api
+   Tags: cours-deau, environnement, fleuve, plan-deau, qualite-physico-chimique
+   URL: https://www.data.gouv.fr/dataservices/672cf670ee9a5fed20dd93e4
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. API liens capitalistiques - DGFIP | Bouquet API Entreprise
+   ID: 686d1ee8b267deea7b434baf
+   Description: > L'[API bénéficiaires effectifs - Inpi | Bouquet API Entreprise](https://entreprise.api.gouv.fr/catalogue/inpi/rne/beneficiaires_effectifs) permet d'accéder à la **liste des bénéficiaires effectifs d...
+   Organization: Direction interministérielle du numérique
+   Base API URL: https://entreprise.api.gouv.fr
+   URL: https://www.data.gouv.fr/dataservices/686d1ee8b267deea7b434baf
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+
+
+========== sport | page 8 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 8 of results:
+
+1. API Extrait RCS - Infogreffe | Bouquet API Entreprise
+   ID: 672cf6b622535e70b5584c0f
+   Description: > L'[API Extrait RCS - Infogreffe | Bouquet API Entreprise](https://entreprise.api.gouv.fr/catalogue/infogreffe/rcs/extrait) permet d'accéder à l'**extrait d'une partie des données du registre du comm...
+   Organization: Direction interministérielle du numérique
+   Base API URL: https://entreprise.api.gouv.fr
+   Tags: activite, administration, administration-et-legislation, annuaire, ape
+   URL: https://www.data.gouv.fr/dataservices/672cf6b622535e70b5584c0f
+   Métriques popularité: 15716 visites, 12294 téléchargements (proxy dataset « Recensement des équipements sportifs, espaces et s »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Recensement des équipements sportifs, espaces et s »)
+
+2. RIAL (Répertoire Inter-Administratif des Locaux)
+   ID: 67acdc5b2442665160389f62
+   Description: Le RIAL (Répertoire Inter-Administratif des Locaux) s’appuie sur les données contenues dans R-Loc, le référentiel des locaux de la DGFIP. Ce référentiel a vocation à recenser l’ensemble des locaux pré...
+   Organization: Ministères économiques et financiers
+   URL: https://www.data.gouv.fr/dataservices/67acdc5b2442665160389f62
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. API Chiffre d'affaires - DGFIP | Bouquet API Entreprise
+   ID: 672cf6b120c9ae9747b40165
+   Description: > L'[API Chiffre d'affaires - DGFIP | Bouquet API Entreprise](https://entreprise.api.gouv.fr/catalogue/dgfip/chiffres_affaires) permet d'accéder aux **déclarations de chiffre d’affaires, des trois der...
+   Organization: Direction interministérielle du numérique
+   Base API URL: https://entreprise.api.gouv.fr
+   Tags: administration, administration-et-legislation, aides-publiques, annuaire, api-entreprise
+   URL: https://www.data.gouv.fr/dataservices/672cf6b120c9ae9747b40165
+   Métriques popularité: 786 visites, 379 téléchargements (proxy dataset « Subventions « Equipements sportifs » allouées en 2 »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Subventions « Equipements sportifs » allouées en 2 »)
+
+4. Service de visualisation de données pour les Territoire à risque d’inondation (TRI) du SIG Directive inondation - Guyane - rapportage 2020
+   ID: 6690724606c7bfb7ba1ff6ba
+   Description: Série de données géographiques produites par le SIG Directive inondation pour le territoire de France métropolitaine et cartographiées aux fins de rapportage pour la directive européenne sur les inond...
+   Organization: Bureau de Recherches Géologiques et Minières
+   Base API URL: https://georisques.gouv.fr/services/di_guy_2020
+   Tags: cartographie, directive-inondation, donnees-ouvertes, georisques, gestion-du-risque-dinondation
+   URL: https://www.data.gouv.fr/dataservices/6690724606c7bfb7ba1ff6ba
+   Métriques popularité: 362 visites, 87 téléchargements (proxy dataset « Equipements - Terrains de Sport (2018) en Loir-et- »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Equipements - Terrains de Sport (2018) en Loir-et- »)
+
+5. Service de visualisation de données pour les Territoire à risque d’inondation (TRI) du SIG Directive inondation - La Réunion - rapportage 2013
+   ID: 675ccaf2ca9ad114f7b02f31
+   Description: Série de données géographiques produites par le SIG Directive inondation pour le territoire de France métropolitaine et cartographiées aux fins de rapportage pour la directive européenne sur les inond...
+   Organization: Bureau de Recherches Géologiques et Minières
+   Base API URL: https://mapsref.brgm.fr/wxs/georisques/di_reu_2013
+   Tags: cartographie, directive-inondation, donnees-ouvertes, georisques, gestion-du-risque-dinondation
+   URL: https://www.data.gouv.fr/dataservices/675ccaf2ca9ad114f7b02f31
+   Métriques popularité: 362 visites, 87 téléchargements (proxy dataset « Equipements - Terrains de Sport (2018) en Loir-et- »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Equipements - Terrains de Sport (2018) en Loir-et- »)
+
+
+
+========== sport | page 9 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 9 of results:
+
+1. Explore API v2 https://opendata-corse-outremer.edf.fr
+   ID: 66907211da7ca9d1f11ff6af
+   Organization: EDF Systèmes Energétiques Insulaires
+   Base API URL: https://opendata-corse-outremer.edf.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/66907211da7ca9d1f11ff6af
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. Hub'Eau - Ecoulement des cours d'eau
+   ID: 672cf6a2a37a79f6ff3e3251
+   Description: [L'API Ecoulement des cours d'eau](https://hubeau.eaufrance.fr/page/api-ecoulement) diffuse les données de l’observatoire national des étiages, [Onde](https://onde.eaufrance.fr/). Ces données résulten...
+   Organization: Hub’eau
+   Base API URL: https://hubeau.eaufrance.fr/api
+   Tags: cours-deau, ecoulement, environnement, observations-visuelles, tete-de-bassin-versant
+   URL: https://www.data.gouv.fr/dataservices/672cf6a2a37a79f6ff3e3251
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Hub'Eau - Prélèvements en eau
+   ID: 672cf68da474f2d73502b5d2
+   Description: ### Prélèvements en eau
+
+[L'API Prélèvements en eau](https://hubeau.eaufrance.fr/page/api-prelevements-eau) fournit des informations sur les volumes annuels directement prélevés sur la ressource en ea...
+   Organization: Hub’eau
+   Base API URL: https://hubeau.eaufrance.fr/api
+   Tags: bnpe, environnement, prelevements-en-eau, ressource-en-eau
+   URL: https://www.data.gouv.fr/dataservices/672cf68da474f2d73502b5d2
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Hub'Eau - Qualité des nappes d'eau souterraine
+   ID: 672cf67955292111be09eff9
+   Description: [L'API Qualité des nappes d'eau souterraine](https://hubeau.eaufrance.fr/page/api-qualite-nappes) de Hub'Eau permet d'accéder aux données sur la qualité physico-chimique des nappes d'eau souterraines ...
+   Organization: Hub’eau
+   Base API URL: https://hubeau.eaufrance.fr/api
+   Tags: aquifere, eau-souterraine, environnement, hydrogeologie, nappe-deau
+   URL: https://www.data.gouv.fr/dataservices/672cf67955292111be09eff9
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. API info-financière
+   ID: 672cf656403bf419125795dd
+   Description: L’API info-financière permet d'accéder au stockage centralisé des informations réglementées des sociétés cotées en bourse, émanant des émetteurs et transmises par l’Autorité des marchés financiers (AM...
+   Organization: Premier ministre
+   Base API URL: https://www.info-financiere.gouv.fr/api/explore/v2.0
+   Tags: amf, cac40, dila, entreprise, financieres
+   URL: https://www.data.gouv.fr/dataservices/672cf656403bf419125795dd
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+
+
+========== sport | page 10 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 10 of results:
+
+1. API Bulletin des Annonces Légales Obligatoires (BALO)
+   ID: 672cf69265f131fae343442a
+   Description: 
+### A quoi sert l’API Bulletin des Annonces Légales Obligatoires ?
+
+Afin de faciliter la réutilisation des données du Bulletin des Annonces Légales Obligatoires (BALO), la direction de l’information ...
+   Organization: Premier ministre
+   Base API URL: https://journal-officiel-datadila.opendatasoft.com/api/explore/v2.0
+   Tags: actions, administration-et-legislation, annonces, assemblee, avis
+   URL: https://www.data.gouv.fr/dataservices/672cf69265f131fae343442a
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. API données ouvertes de Loire-Atlantique
+   ID: 672cf68c65f131fae3434429
+   Description: Le Département de Loire-Atlantique s’est engagé dans l’ouverture de ses données publiques dès 2011 pour développer la transparence, la connaissance et l’innovation sur le territoire départemental.
+
+Au...
+   Organization: Département de Loire-Atlantique
+   Base API URL: https://data.loire-atlantique.fr/api/explore/v2.0
+   Tags: administration-et-legislation, agriculture, atlantique, data, departement
+   URL: https://www.data.gouv.fr/dataservices/672cf68c65f131fae3434429
+   Métriques popularité: 3838 visites, 1045 téléchargements (proxy dataset « Effectifs d’étudiants inscrits dans les établissem »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Effectifs d’étudiants inscrits dans les établissem »)
+
+3. API Prix des contrôles techniques
+   ID: 672cf9c0cbc098058850c094
+   Description: Cette API permet d'accéder aux données du site [prix-contrôle-technique.gouv.fr](https://prix-controle-technique.gouv.fr/), opéré par le Ministère de l'Economie, des Finances, et de la Relance. 
+
+### ...
+   Organization: Ministères économiques et financiers
+   Base API URL: https://data.economie.gouv.fr/api/explore/v2.0
+   Tags: annuaire, centre, controle, ct, entreprise
+   URL: https://www.data.gouv.fr/dataservices/672cf9c0cbc098058850c094
+   Métriques popularité: 1364 visites, 945 téléchargements (proxy dataset « Subventions allouées en 2015 par le Centre Nationa »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Subventions allouées en 2015 par le Centre Nationa »)
+
+4. API données ouvertes de l’Urssaf
+   ID: 672cf98bba3bba62085cd925
+   Description: L’API données ouvertes (open data) du Portail [Open.Urssaf](https://open.urssaf.fr) est une API ouverte à tous, qui permet d’accéder à l’ensemble du catalogue de jeux de données publiés sur le portail...
+   Organization: Unions de Recouvrement des cotisations de Sécurité Sociale et d'Allocations Familiales
+   Base API URL: https://open.urssaf.fr/api/explore/v2.0
+   Tags: acoss, entreprise, open-data, recouvrement, urssaf
+   URL: https://www.data.gouv.fr/dataservices/672cf98bba3bba62085cd925
+   Métriques popularité: 602 visites, 499 téléchargements (proxy dataset « Évaluation des émissions carbone des Jeux Olympiqu »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Évaluation des émissions carbone des Jeux Olympiqu »)
+
+5. API Annuaire de l’administration - compétence géographique des services locaux
+   ID: 672cf6a5a37a79f6ff3e3252
+   Description: ### Contenu des données
+
+La Base de données locales est éditée et diffusée sous la responsabilité de la DILA.
+
+L’API Annuaire de l'administration : compétence géographique des services locaux - Servic...
+   Organization: Premier ministre
+   Base API URL: https://api-lannuaire.service-public.gouv.fr/api/explore/v2.1
+   Tags: administration, administration-legislation, annuaire, competence, dila
+   URL: https://www.data.gouv.fr/dataservices/672cf6a5a37a79f6ff3e3252
+   Métriques popularité: 1341 visites, 397 téléchargements (proxy dataset « Dénombrement des équipements (commerce, sport, ser »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Dénombrement des équipements (commerce, sport, ser »)
+
+
+
+========== sport | page 11 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 11 of results:
+
+1. API Annonces officielles et comptes annuels des associations
+   ID: 672cf663d5e4c56502e38b6c
+   Description: ### A quoi sert l’API Annonces officielles et comptes annuels des associations ?
+
+Afin de faciliter la réutilisation des données, la direction de l’information légale et administrative (DILA) met à di...
+   Organization: Premier ministre
+   Base API URL: https://journal-officiel-datadila.opendatasoft.com/api/explore/v2.0
+   Tags: administration-et-legislation, associations, comptes, creation, dissolution
+   URL: https://www.data.gouv.fr/dataservices/672cf663d5e4c56502e38b6c
+   Métriques popularité: 87393 visites, 42470 téléchargements (proxy dataset « Associations Reconnues d'Utilité Publique »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Associations Reconnues d'Utilité Publique »)
+
+2. Explore API v2 https://twisto-caen.opendatasoft.com
+   ID: 68089b65813588519f57c5a0
+   Description: Explore API v2
+...
+   Organization: Twisto
+   Base API URL: https://twisto-caen.opendatasoft.com/api/explore/v2.1
+   URL: https://www.data.gouv.fr/dataservices/68089b65813588519f57c5a0
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Explore API v2 https://data.teo-paysdelaloire.fr
+   ID: 688797a40fae895e18ee54f0
+   Organization: TEO, observatoire de la transition écologique des Pays de la Loire
+   Base API URL: https://data.teo-paysdelaloire.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/688797a40fae895e18ee54f0
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. API données ouvertes de l’Éducation Nationale
+   ID: 672cf9be6136ac3468829101
+   Description: L’API données ouvertes de [l’Éducation Nationale](https://data.education.gouv.fr/) est une API ouverte à tous, qui permet d’accéder à l’ensemble du catalogue de jeux de données publiés sur le portail ...
+   Organization: Ministères de l'Éducation nationale
+   Base API URL: https://data.education.gouv.fr/api/explore/v2.0
+   Tags: annuaire, college, diplome, education, eleves
+   URL: https://www.data.gouv.fr/dataservices/672cf9be6136ac3468829101
+   Métriques popularité: 2185 visites, 3928 téléchargements (proxy dataset « Covid 19 - points de situation nationaux »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Covid 19 - points de situation nationaux »)
+
+5. API calendrier scolaire
+   ID: 672cf9ba5a5cfb9784ec860f
+   Description: L’API calendrier scolaire permet d'accéder aux dates de début et de fin des vacances scolaires pour l'année scolaire en cours.
+
+### Que contient l'API calendrier scolaire ?
+
+L'API permet d'intégrer (s...
+   Organization: Ministères de l'Éducation nationale
+   Base API URL: https://data.education.gouv.fr/api/explore/v2.0
+   Tags: agenda, calendrier, college, conges, dates
+   URL: https://www.data.gouv.fr/dataservices/672cf9ba5a5cfb9784ec860f
+   Métriques popularité: 2185 visites, 3928 téléchargements (proxy dataset « Covid 19 - points de situation nationaux »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Covid 19 - points de situation nationaux »)
+
+
+
+========== sport | page 12 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 12 of results:
+
+1. Explore API v2 https://data.cannes.fr
+   ID: 669072528069509c921ff6b5
+   Organization: Mairie de Cannes
+   Base API URL: https://data.cannes.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072528069509c921ff6b5
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. API Bulletin officiel des annonces civiles et commerciales (BODACC)
+   ID: 672cf66ea47b8d4c15d13d5b
+   Description: ### A quoi sert l’API Bulletin des annonces civiles et commerciales (BODACC) ?
+
+Afin de faciliter la réutilisation des données du Bulletin officiel des annonces civiles et commerciales (BODACC), la di...
+   Organization: Premier ministre
+   Base API URL: https://bodacc-datadila.opendatasoft.com/api/explore/v2.0
+   Tags: administration-et-legislation, annonces, avis, bodacc, cession
+   URL: https://www.data.gouv.fr/dataservices/672cf66ea47b8d4c15d13d5b
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Explore API v2 https://data.lamayenne.fr
+   ID: 66907228354bf2df921ff6ba
+   Organization: Le Conseil Départemental de la Mayenne
+   Base API URL: https://data.lamayenne.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/66907228354bf2df921ff6ba
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Explore API v2 https://open.urssaf.fr
+   ID: 6690722a1f100ac2481ff6ae
+   Organization: Unions de Recouvrement des cotisations de Sécurité Sociale et d'Allocations Familiales
+   Base API URL: https://open.urssaf.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6690722a1f100ac2481ff6ae
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. API Annuaire de l’administration et des services publics
+   ID: 672cf645e35d4f6741f6bfa6
+   Description: ### Contenu des données
+
+Le [Référentiel de l’organisation administrative de l’Etat](https://www.data.gouv.fr/fr/datasets/referentiel-de-lorganisation-administrative-de-letat/) et la [Base de données ...
+   Organization: Premier ministre
+   Base API URL: https://api-lannuaire.service-public.gouv.fr/api/explore/v2.1
+   Tags: administration, administration-et-legislation, annuaire, services-publics
+   URL: https://www.data.gouv.fr/dataservices/672cf645e35d4f6741f6bfa6
+   Métriques popularité: 362 visites, 87 téléchargements (proxy dataset « Equipements - Terrains de Sport (2018) en Loir-et- »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Equipements - Terrains de Sport (2018) en Loir-et- »)
+
+
+
+========== sport | page 13 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 13 of results:
+
+1. Explore API v2 https://boulognebillancourt-seineouest.opendatasoft.com
+   ID: 6690729ada7ca9d1f11ff6c5
+   Organization: Ville de Boulogne-Billancourt
+   Base API URL: https://boulognebillancourt-seineouest.opendatasoft.com/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6690729ada7ca9d1f11ff6c5
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. Explore API v2 https://data.saintnazaireagglo.fr
+   ID: 66fb3b9df38a0ba45a679c35
+   Organization: Saint-Nazaire agglo - La CARENE
+   Base API URL: https://data.saintnazaireagglo.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/66fb3b9df38a0ba45a679c35
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Explore API v2 https://data.sarthe.fr
+   ID: 68d66853372546ccfac0bceb
+   Organization: Conseil départemental de la Sarthe
+   Base API URL: https://data.sarthe.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/68d66853372546ccfac0bceb
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Explore API v2 https://bpce.opendatasoft.com
+   ID: 669072c78069509c921ff6bd
+   Organization: Groupe BPCE
+   Base API URL: https://bpce.opendatasoft.com/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072c78069509c921ff6bd
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. Explore API v2 https://chaville-seineouest.opendatasoft.com
+   ID: 669072c51f100ac2481ff6c5
+   Organization: Commune de Chaville
+   Base API URL: https://chaville-seineouest.opendatasoft.com/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072c51f100ac2481ff6c5
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+
+
+========== sport | page 14 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 14 of results:
+
+1. Explore API v2 https://opendata.doubs.fr
+   ID: 669072a891994f3bce1ff6bc
+   Organization: Département du Doubs
+   Base API URL: https://opendata.doubs.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072a891994f3bce1ff6bc
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. Explore API v2 https://data.paysdelaloire.fr
+   ID: 669072fd76f052df100f7fae
+   Organization: Région des Pays de la Loire
+   Base API URL: https://data.paysdelaloire.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072fd76f052df100f7fae
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Explore API v2 https://data.laregion.fr
+   ID: 6690728976f052df100f7fa7
+   Organization: Région Occitanie / Pyrénées Méditerranée
+   Base API URL: https://data.laregion.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6690728976f052df100f7fa7
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Explore API v2 https://data.idelis.fr
+   ID: 669072f2fba98e775b0f7fad
+   Organization: Pau Béarn Pyrénées Mobilités
+   Base API URL: https://data.idelis.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072f2fba98e775b0f7fad
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. Explore API v2 https://data.ofgl.fr
+   ID: 669072c9da7ca9d1f11ff6d2
+   Organization: Observatoire des Finances et de la Gestion publique Locales
+   Base API URL: https://data.ofgl.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072c9da7ca9d1f11ff6d2
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+
+
+========== sport | page 15 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 15 of results:
+
+1. Explore API v2 https://anglet-opendatapaysbasque.opendatasoft.com
+   ID: 6690725b91994f3bce1ff6b1
+   Organization: Commune d'Anglet
+   Base API URL: https://anglet-opendatapaysbasque.opendatasoft.com/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6690725b91994f3bce1ff6b1
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. Explore API v2 https://datahub.bordeaux-metropole.fr
+   ID: 67f5bb0e03325228295b7e9c
+   Organization: Bordeaux Métropole
+   Base API URL: https://datahub.bordeaux-metropole.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/67f5bb0e03325228295b7e9c
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Explore API v2 https://vanves-seineouest.opendatasoft.com
+   ID: 669072da3dc4e324bf1ff6b6
+   Organization: Ville de Vanves
+   Base API URL: https://vanves-seineouest.opendatasoft.com/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072da3dc4e324bf1ff6b6
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Explore API v2 https://zabal-agriculture.opendata-paysbasque.fr
+   ID: 66907270e711c91c601ff6c0
+   Organization: Plateforme Open Data ZABAL
+   Base API URL: https://zabal-agriculture.opendata-paysbasque.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/66907270e711c91c601ff6c0
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. Explore API v2 https://data.agglo-carene.fr
+   ID: 69c5cd9e27d3c900d52719e2
+   Organization: Saint-Nazaire agglo - La CARENE
+   Base API URL: https://data.agglo-carene.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/69c5cd9e27d3c900d52719e2
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+
+
+========== sport | page 16 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 16 of results:
+
+1. Explore API v2 https://data.unedic.org
+   ID: 669073208ab80396451ff6b7
+   Organization: Unédic
+   Base API URL: https://data.unedic.org/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669073208ab80396451ff6b7
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. Explore API v2 https://opendata.aude.fr
+   ID: 66907206fba98e775b0f7f96
+   Organization: Département de l'Aude
+   Base API URL: https://opendata.aude.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/66907206fba98e775b0f7f96
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Explore API v2 https://data.grandparissud.fr
+   ID: 6691c404886d1b67b41ff6b9
+   Organization: Grand Paris Sud
+   Base API URL: https://data.grandparissud.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6691c404886d1b67b41ff6b9
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Explore API v2 https://data.sicoval.fr
+   ID: 66907202e711c91c601ff6ad
+   Organization: Sicoval - Communauté d'agglomération du Sud-Est toulousain
+   Base API URL: https://data.sicoval.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/66907202e711c91c601ff6ad
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. Explore API v2 https://enseignement-agricole.opendatasoft.com
+   ID: 669072bf76f052df100f7fab
+   Organization: Ministère de l'Agriculture, de l'agro-alimentaire et de la souveraineté alimentaire
+   Base API URL: https://enseignement-agricole.opendatasoft.com/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072bf76f052df100f7fab
+   Métriques popularité: 20057 visites, 3163 téléchargements (proxy dataset « Effectifs d'étudiants inscrits dans les établissem »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Effectifs d'étudiants inscrits dans les établissem »)
+
+
+
+========== sport | page 17 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 17 of results:
+
+1. Explore API v2 https://data.seineouest.fr
+   ID: 6690726191994f3bce1ff6b6
+   Organization: Ville de Marnes-la-Coquette
+   Base API URL: https://data.seineouest.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6690726191994f3bce1ff6b6
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. Explore API v2 https://opendata.ha-py.fr
+   ID: 669072e53dc4e324bf1ff6b8
+   Organization: Département des Hautes-Pyrénées
+   Base API URL: https://opendata.ha-py.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072e53dc4e324bf1ff6b8
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Explore API v2 https://data.eurelien.fr
+   ID: 669072f4fba98e775b0f7faf
+   Organization: Conseil départemental d'Eure-et-Loir
+   Base API URL: https://data.eurelien.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072f4fba98e775b0f7faf
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Explore API v2 https://opendata.caissedesdepots.fr
+   ID: 6690725d0fd97cb0a91ff6b5
+   Organization: Caisse des Dépôts
+   Base API URL: https://opendata.caissedesdepots.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6690725d0fd97cb0a91ff6b5
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. Explore API v2 https://opendata.hauts-de-seine.fr
+   ID: 6690726791994f3bce1ff6b9
+   Organization: Ville de Rueil-Malmaison
+   Base API URL: https://opendata.hauts-de-seine.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6690726791994f3bce1ff6b9
+   Métriques popularité: 729 visites, 152 téléchargements (proxy dataset « Carte des licenciés sportifs en Seine-Saint-Denis »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Carte des licenciés sportifs en Seine-Saint-Denis »)
+
+
+
+========== sport | page 18 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 18 of results:
+
+1. Explore API v2 https://data.regionreunion.com
+   ID: 6690721b354bf2df921ff6b3
+   Organization: Région Réunion
+   Base API URL: https://data.regionreunion.com/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6690721b354bf2df921ff6b3
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. Explore API v2 https://data.agglo-montargoise.fr
+   ID: 6690721bfba98e775b0f7f9a
+   Organization: Agglomération Montargoise Et rives du loing
+   Base API URL: https://data.agglo-montargoise.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6690721bfba98e775b0f7f9a
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Explore API v2 https://data.seinesaintdenis.fr
+   ID: 6a0eba354780a16c39e21bae
+   Organization: Seine-Saint-Denis - Le Département
+   Base API URL: https://data.seinesaintdenis.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6a0eba354780a16c39e21bae
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Explore API v2 https://opendata.clermontmetropole.eu
+   ID: 669072f01f100ac2481ff6cf
+   Organization: Clermont Auvergne Métropole
+   Base API URL: https://opendata.clermontmetropole.eu/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072f01f100ac2481ff6cf
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. Explore API v2 https://data.twisto.fr
+   ID: 68f187a12c4ca61855ff199f
+   Organization: Twisto
+   Base API URL: https://data.twisto.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/68f187a12c4ca61855ff199f
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+
+
+========== sport | page 19 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 19 of results:
+
+1. Explore API v2 https://data.metropole-rouen-normandie.fr
+   ID: 66907311e711c91c601ff708
+   Organization: Métropole Rouen Normandie
+   Base API URL: https://data.metropole-rouen-normandie.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/66907311e711c91c601ff708
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. Explore API v2 https://opendata.isere.fr
+   ID: 669073071f100ac2481ff6d1
+   Organization: Conseil départemental de l'Isère
+   Base API URL: https://opendata.isere.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669073071f100ac2481ff6d1
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Explore API v2 https://data.strasbourg.eu
+   ID: 66907256da7ca9d1f11ff6bf
+   Organization: Eurométropole de Strasbourg
+   Base API URL: https://data.strasbourg.eu/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/66907256da7ca9d1f11ff6bf
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Explore API v2 https://data.cc-autourdechenonceaux.fr
+   ID: 67d2f68d7563a4b5f1cbfe8a
+   Organization: CC Autour de Chenonceaux Bléré - Val de Cher
+   Base API URL: https://data.cc-autourdechenonceaux.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/67d2f68d7563a4b5f1cbfe8a
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. Explore API v2 https://datavaccin-covid.ameli.fr
+   ID: 669072548069509c921ff6b8
+   Organization: Caisse nationale de l'Assurance Maladie
+   Base API URL: https://datavaccin-covid.ameli.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072548069509c921ff6b8
+   Métriques popularité: 2185 visites, 3928 téléchargements (proxy dataset « Covid 19 - points de situation nationaux »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Covid 19 - points de situation nationaux »)
+
+
+
+========== sport | page 20 ==========
+Found 328 third-party API(s) for query: 'sport'
+Page 20 of results:
+
+1. Explore API v2 https://data.villedavray.fr
+   ID: 6691c3857eec3861d61ff6ad
+   Organization: Commune de Ville-d'Avray
+   Base API URL: https://data.villedavray.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/6691c3857eec3861d61ff6ad
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+2. Explore API v2 https://data.tours-metropole.fr
+   ID: 66907219e711c91c601ff6b4
+   Organization: Tours Métropole Val de Loire
+   Base API URL: https://data.tours-metropole.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/66907219e711c91c601ff6b4
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+3. Explore API v2 https://data.orleans-metropole.fr
+   ID: 669072a8fba98e775b0f7fa5
+   Organization: Orléans Métropole
+   Base API URL: https://data.orleans-metropole.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072a8fba98e775b0f7fa5
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+4. Explore API v2 https://data.bretagne.bzh
+   ID: 669073571f100ac2481ff6d6
+   Organization: Région Bretagne
+   Base API URL: https://data.bretagne.bzh/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669073571f100ac2481ff6d6
+   Métriques popularité: 13108 visites, 6370 téléchargements (proxy marché (15% du dataset le plus consulté))
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy marché (15% du dataset le plus consulté))
+
+5. Explore API v2 https://data.normandie.education.gouv.fr
+   ID: 669072338069509c921ff6b2
+   Organization: Rectorat de Normandie
+   Base API URL: https://data.normandie.education.gouv.fr/api/explore/v2.1/
+   URL: https://www.data.gouv.fr/dataservices/669072338069509c921ff6b2
+   Métriques popularité: 1922 visites, 204 téléchargements (proxy dataset « Séries chronologiques Education »)
+--- Détail téléchargements / visites ---
+(popularité estimée — proxy dataset « Séries chronologiques Education »)
+
+

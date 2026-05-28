@@ -1,0 +1,615 @@
+{
+  "search_terms": [
+    "sport"
+  ],
+  "use_case": "application de referencement de l'occupation des terrains d'ile de france en temps reel",
+  "user_request": "datasets pertinents pour le sport en priorité ile-de-france IDF",
+  "geo_filter": "datasets pertinents pour le sport en priorité ile-de-france IDF",
+  "allowed_zones": [
+    "idf"
+  ],
+  "geo_mode": "zones=idf",
+  "kind": "dataset",
+  "scores": [
+    {
+      "id": "536997fea3a729239d204e35",
+      "title": "Les commerces par commune ou arrondissement (base permanente des équipements)",
+      "relevance": 0.044,
+      "reason": "Hors sujet (recherche et cas d'usage) (département hors zones demandées)"
+    },
+    {
+      "id": "6932a7a99c499cce557c623b",
+      "title": "Évaluation des émissions carbone des Jeux Olympiques et Paralympiques de Paris 2024 liées au déplacement des spectateurs",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "656ee6f82817364fb7a9fead",
+      "title": "Jeux Olympiques et Paralympiques 2024 : expositions sur le sport à Antibes Juan-les-Pins",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "5e733a20eaae68437f339cdc",
+      "title": "Circuits d'activité physique Sport Santé Peps mis en place par la Ville d'Antibes",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "66ff691696cfd7bf01679c30",
+      "title": "Sports d'hiver - Sélection de documents des Archives départementales de la Haute-Garonne",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "59591c57a3a7291dcf9c814b",
+      "title": "Carte des licenciés sportifs en Seine-Saint-Denis",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "5369902ba3a729239d20392a",
+      "title": "Carte des licenciés sportifs dans le Val-d'Oise",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "59591c51a3a7291dd09c8127",
+      "title": "Carte des licenciés sportifs en Seine-et-Marne",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "59591732a3a7291dcf9c80ad",
+      "title": "Carte des licenciés sportifs en Essonne",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "5369902ba3a729239d203929",
+      "title": "Carte des licenciés sportifs dans le Val-de-Marne",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "5369902aa3a729239d203928",
+      "title": "Carte des licenciés sportifs dans les Yvelines",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "5369902ca3a729239d20392d",
+      "title": "Carte des licenciés sportifs en Seine-Saint-Denis",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "5369902ba3a729239d20392b",
+      "title": "Carte des licenciés sportifs en Essonne",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "59591c49a3a7291dd09c8126",
+      "title": "Carte des licenciés sportifs dans le Val-de-Marne",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "5959172ba3a7291dcf9c80ac",
+      "title": "Carte des licenciés sportifs dans le Val-d'Oise",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "53699ebba3a729239d205f4f",
+      "title": "Recensement des équipements sportifs, espaces et sites de pratiques",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "65df34eeb2a9d54adad981d7",
+      "title": "Paris 2024 - Sites de compétition",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "6850ed41bb975b05e452b636",
+      "title": "Implantation des sections Sport-Etudes",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "67edcfd916b9f5ccba6ca1da",
+      "title": "Dénombrement des équipements (commerce, sport, services, santé…)",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "67edcfda16b9f5ccba6ca1dd",
+      "title": "Sport, loisirs et culture : dénombrement, caractéristiques et capacités des équipements",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "53699ebba3a729239d205f58",
+      "title": "Données géocodées issues du recensement des licences et clubs auprès des fédérations sportives agréées par le ministère chargé des sports",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "6151bd94bf06b42f321cc18a",
+      "title": "Feuilles de route ministérielles sur la politique de la donnée, des algorithmes et des codes sources",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "57d59600c751df032a97bae5",
+      "title": "Base des diplômés des métiers du sport 2015",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "57d66dc788ee383e857fc1d6",
+      "title": "Facteurs d'émissions d'équipements de sport",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "6932a39e110a08f89b11a88e",
+      "title": "Évaluation de l'empreinte carbone totale des Jeux Olympiques et Paralympiques de Paris 2024 par catégorie",
+      "relevance": 0.13,
+      "reason": "Hors sujet (recherche et cas d'usage) (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "57d59986c751df097c97bae5",
+      "title": "Liste des médicaments et des substances dopantes",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "57d4239bc751df60a697bae5",
+      "title": "Emploi d’avenir et CUI - CAE  dans les domaines du sport et de l’animation",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "57d588ddc751df68ed97bae5",
+      "title": "Athlètes inscrits sur la liste des sportifs de haut niveau en 2015",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "6932de9c07fa7326ab6e941f",
+      "title": "Estimation des émissions carbone des Jeux Olympiques et Paralympiques de Paris 2024 par site de construction permanente",
+      "relevance": 0.13,
+      "reason": "Hors sujet (recherche et cas d'usage) (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "536998d9a3a729239d205094",
+      "title": "Liste des athlètes franciliens « Ambassadeurs du sport »",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "53698f1aa3a729239d203653",
+      "title": "Associations Reconnues d'Utilité Publique",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "6350c887d95d644f9c487174",
+      "title": "JO 2024 : communes labellisées Terres de jeux 2024",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "57d579a4c751df4d2a97bae5",
+      "title": "Subventions allouées en 2015 par le Centre National pour le Développement du Sport (CNDS)",
+      "relevance": 0.495,
+      "reason": "Correspond au terme « sport » (département hors zones demandées)"
+    },
+    {
+      "id": "53698f4da3a729239d2036eb",
+      "title": "Base de données \"Corps & diplômes\" du ministère des sports, de la jeunesse, de l’éducation populaire et de la vie associative",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "53699692a3a729239d204a8c",
+      "title": "Indicateurs de résultat des lycées d'enseignement professionnel",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "53699373a3a729239d2041c5",
+      "title": "Effectifs d’étudiants inscrits dans les établissements et les formations de l’enseignement supérieur",
+      "relevance": 0.044,
+      "reason": "Hors sujet (recherche et cas d'usage) (département hors zones demandées)"
+    },
+    {
+      "id": "57d5947fc751df7e0c97bae5",
+      "title": "Base des Conseillers Techniques Sportifs",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "57d6708388ee383e857fc1d7",
+      "title": "Référentiel d'indicateurs pour auto-évaluer  l'éco-responsabilité d'événements sportifs",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "55098945c751df3c2f882844",
+      "title": "L'état de l'École",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "68c19638053dc669ffd615e2",
+      "title": "Ensemble des jeux de données sur le dénombrement des équipements (commerce, sport, service, santé, enseignement, etc.)",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "65df34efcbf039c085102128",
+      "title": "Paris 2024 - Événements Olympiade Culturelle",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "6634298d65b6d04c70069d11",
+      "title": "Paris 2024 - PSA spectateurs",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "66db980bc2058393f1709392",
+      "title": "Paris 2024 - Périmètres de sécurité",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "5c7e67138b4c4151a709037d",
+      "title": "Référentiel d’activités physiques et sportives",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "65df34eecbf039c085102127",
+      "title": "Paris 2024 - FAQ",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "65df34efa2773f4101102129",
+      "title": "Paris 2024 - Centres de préparation aux Jeux",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672301060dcb9f1a3720e0ec",
+      "title": "Paris 2024 - Résultats des médaillés pour chaque discipline Olympique",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "57d574d8c751df448697bae5",
+      "title": "Relations géographiques distantes des licences 2013 des fédérations sportives à leur club",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "65df34eea2773f4101102128",
+      "title": "Paris 2024 - Boutiques officielles",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300e30dcb9f1a3720e0df",
+      "title": "Carte des Jeux - Evènements (EN)",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "672300e30dcb9f1a3720e0e1",
+      "title": "Carte des Jeux - Road Events (EN)",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "672301070dcb9f1a3720e0ee",
+      "title": "Paris 2024 - Flux piétons accrédités",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300e20dcb9f1a3720e0dd",
+      "title": "Paris 2024 - Lignes CHC",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "62875ca978a7f2f47105116b",
+      "title": "Sport Santé en Collectivité pour les agents de la Ville d'Antibes",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "53699e36a3a729239d205e0f",
+      "title": "Programme d'enseignement de Design et arts appliqués pour le cycle terminal de la série STD2A",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "57d587c5c751df66e397bae5",
+      "title": "Liste des médailles obtenues par des sportifs français aux Jeux Olympiques et paralympiques de 2012 et de 2014",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "672300e20dcb9f1a3720e0dc",
+      "title": "Carte des Jeux - Evènements (FR)",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "54aa91f8c751df41a204805e",
+      "title": "Séries chronologiques Education",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "5be560f49ce2e72d6683100f",
+      "title": "Equipements publics de sport et loisirs sur le territoire de m2A",
+      "relevance": 0.495,
+      "reason": "Correspond au terme « sport » (département hors zones demandées)"
+    },
+    {
+      "id": "672300e10dcb9f1a3720e0d8",
+      "title": "Paris 2024 - Lignes PARA TA",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "66db980ac2058393f170938e",
+      "title": "Paris 2024 - Parkings accrédités",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "66db980bc2058393f1709391",
+      "title": "Paris 2024 - Tracés des road events",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "66db980bc2058393f1709390",
+      "title": "Paris 2024 - Voies Olympiques et Paralympiques",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "66db980cc2058393f1709393",
+      "title": "Paris 2024 - Calendrier des sessions [Version simplifiée]",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300e20dcb9f1a3720e0da",
+      "title": "Carte des Jeux - Position de la flamme",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "65df34eea25de21ef3d981d7",
+      "title": "Paris 2024 - Parkings vélo spectateurs en IDF",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "6448e3fce7e52e625ad9ced5",
+      "title": "Traces du sport à Antibes Juan-les-Pins",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "672452575b7941646d20e0d4",
+      "title": "Paris 2024 - Lignes OLY TA",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300f30dcb9f1a3720e0e4",
+      "title": "Paris 2024 - Lignes PARA TF",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672301020dcb9f1a3720e0e7",
+      "title": "Cartes des sites - Venues POI (EN)",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "672301050dcb9f1a3720e0eb",
+      "title": "Carte des Jeux - Road Events (FR)",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "672301030dcb9f1a3720e0e9",
+      "title": "Paris 2024 - Lignes PARA DDS",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300e10dcb9f1a3720e0d6",
+      "title": "Paris 2024 - Lignes OLY DDS",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300e40dcb9f1a3720e0e3",
+      "title": "Paris 2024 - Lignes PARA TC",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300e30dcb9f1a3720e0e0",
+      "title": "Paris 2024 - Lignes TC CER",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "66db980bc2058393f170938f",
+      "title": "Paris 2024 - Calendrier des sessions [Version simplifiée ENG]",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "66db980cc2058393f1709394",
+      "title": "Paris 2024 - Zones de dépose reprise spectateurs",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "66a04401d0330052a18e70b0",
+      "title": "Paris 2024 - Zones de dépose reprise PFR-PSH",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "5e725417e06233005b060dfd",
+      "title": "Activités de Sport Santé mises en place par la Ville d'Antibes",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "672300e10dcb9f1a3720e0d9",
+      "title": "Cartes des sites - Venues POI (FR)",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "615457d093c2b34511706ee0",
+      "title": "Covid 19 - points de situation nationaux",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "672301040dcb9f1a3720e0ea",
+      "title": "Paris 2024 - Itinéraires spectateurs HORS PARIS",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300e20dcb9f1a3720e0db",
+      "title": "Paris 2024 - Lignes OLY TF",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300fa0dcb9f1a3720e0e6",
+      "title": "Paris 2024 - Liste des athlètes engagés aux Jeux Olympiques et Paralympiques",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300e10dcb9f1a3720e0d7",
+      "title": "Paris 2024 - Entrées Cérémonie d'ouverture Paralympique",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "66db980ac2058393f170938d",
+      "title": "Paris 2024 - Zones de dépose reprise accrédités et spectateurs",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672301020dcb9f1a3720e0e8",
+      "title": "[IDFM] - Parkings relais Paris 2024 (FR)",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300e40dcb9f1a3720e0e2",
+      "title": "Paris 2024 - Cheminements parking vélo - PSA",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300e30dcb9f1a3720e0de",
+      "title": "Paris 2024 - Parkings PFR + taxi + TS",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672301060dcb9f1a3720e0ed",
+      "title": "Paris 2024 - Territoires labellisés \"Terre de Jeux\"",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "64c32f4c52f14d3bf32acfeb",
+      "title": "Effectifs d'étudiants inscrits dans les établissements et les formations de l'enseignement supérieur - détail par établissements",
+      "relevance": 0.044,
+      "reason": "Hors sujet (recherche et cas d'usage) (département hors zones demandées)"
+    },
+    {
+      "id": "53699373a3a729239d2041c4",
+      "title": "Effectifs d’étudiants inscrits dans les établissements et les formations de l’enseignement supérieur",
+      "relevance": 0.044,
+      "reason": "Hors sujet (recherche et cas d'usage) (département hors zones demandées)"
+    },
+    {
+      "id": "57d580c4c751df5b9397bae5",
+      "title": "Subventions « Equipements sportifs » allouées en 2015 dans le cadre de la Dotation d’Equipement des Territoires Ruraux  - DETR",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "6724526f5b7941646d20e0d7",
+      "title": "Paris 2024 - Entrées Cérémonie d'ouverture Olympique",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "672300f50dcb9f1a3720e0e5",
+      "title": "Paris 2024 - Messages chatbot centre de contact grand public",
+      "relevance": 0.88,
+      "reason": "Correspond au terme « sport » (région demandée (idf), pondéré sous France)"
+    },
+    {
+      "id": "6810d6a6fb4b944659a43800",
+      "title": "Consommation de programmes sportifs -  Baromètre",
+      "relevance": 1.0,
+      "reason": "Correspond au terme « sport » (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "59848abdc751df72f1012614",
+      "title": "Wholesale Market",
+      "relevance": 0.2,
+      "reason": "Hors sujet (recherche et cas d'usage) (France entière (prioritaire sur toute région))"
+    },
+    {
+      "id": "67377b4a8705bc2edfc2549f",
+      "title": "Equipements - Terrains de Sport (2018) en Loir-et-Cher",
+      "relevance": 0.504,
+      "reason": "Correspond au terme « sport » (département hors zones demandées)"
+    },
+    {
+      "id": "684c4c3d45e1b1cfad52b656",
+      "title": "Base Permanente de Equipements INSEE géolocalisés - Sport et loisir - Auvergne-Rhône-Alpes",
+      "relevance": 0.495,
+      "reason": "Correspond au terme « sport » (département hors zones demandées)"
+    },
+    {
+      "id": "684c4c4445e1b1cfad52b66b",
+      "title": "Etablissements SIRENE R Culture sport et loisir sur Auvergne-Rhône-Alpes",
+      "relevance": 0.495,
+      "reason": "Correspond au terme « sport » (département hors zones demandées)"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "datagouv-enhanced": {
+      "command": "python",
+      "args": ["server.py"],
+      "cwd": "${workspaceFolder}/mcp-datagouv-enhanced"
+    }
+  }
+}

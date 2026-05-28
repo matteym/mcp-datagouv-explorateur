@@ -1,0 +1,463 @@
+
+========== sport | page 17 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 17 of results:
+
+1. Les commerces par commune ou arrondissement (base permanente des équipements)
+   ID: 536997fea3a729239d204e35
+   Organization: Région Île-de-France
+   Tags: commerce, communes, geolocalisation
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/les-commerces-par-commune-ou-arrondissement-base-permanente-des-equipements-idf
+   Métriques popularité: 16111 visites, 5907 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Les commerces par commune ou arrondissement (base permanente des équipements)
+Dataset ID: 536997fea3a729239d204e35
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      953             425            
+2026-04      994             436            
+2026-03      1,194           419            
+2026-02      1,492           799            
+2026-01      1,804           487            
+2025-12      1,337           617            
+2025-11      1,429           616            
+2025-10      1,695           635            
+2025-09      1,340           395            
+2025-08      1,281           251            
+2025-07      1,217           416            
+2025-06      1,375           411            
+------------------------------------------------------------
+Total        16,111          5,907          
+
+2. Évaluation des émissions carbone des Jeux Olympiques et Paralympiques de Paris 2024 liées au déplacement des spectateurs
+   ID: 6932a7a99c499cce557c623b
+   Description: Documents annexes de l’évaluation EY/CGDD sur les émissions carbone liées aux déplacement des spectateurs de l’étranger vers la France et entre départements. ...
+   Organization: Ministère chargé des Sports
+   Tags: bilan-environnemental, deplacement, donnees-ouvertes, emissions-carbone, evenement-sportif
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/evaluation-des-emissions-carbone-des-jeux-olympiques-et-paralympiques-de-paris-2024-liees-au-deplacement-des-spectateurs
+   Métriques popularité: 602 visites, 499 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Évaluation des émissions carbone des Jeux Olympiques et Paralympiques de Paris 2024 liées au déplacement des spectateurs
+Dataset ID: 6932a7a99c499cce557c623b
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      57              125            
+2026-04      52              88             
+2026-03      82              91             
+2026-02      106             71             
+2026-01      278             80             
+2025-12      27              44             
+------------------------------------------------------------
+Total        602             499            
+
+3. Jeux Olympiques et Paralympiques 2024 : expositions sur le sport à Antibes Juan-les-Pins
+   ID: 656ee6f82817364fb7a9fead
+   Organization: Ville d'Antibes
+   Tags: archives, culture, exposition, guerres, handicap
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/jeux-olympiques-et-paralympiques-2024-expositions-sur-le-sport-a-antibes-juan-les-pins
+   Métriques popularité: 535 visites, 151 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Jeux Olympiques et Paralympiques 2024 : expositions sur le sport à Antibes Juan-les-Pins
+Dataset ID: 656ee6f82817364fb7a9fead
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      27              7              
+2026-04      97              28             
+2026-03      51              16             
+2026-02      33              11             
+2026-01      30              20             
+2025-12      38              27             
+2025-11      60              19             
+2025-10      48              4              
+2025-09      21              7              
+2025-08      12              5              
+2025-07      8               4              
+2025-06      110             3              
+------------------------------------------------------------
+Total        535             151            
+
+4. Circuits d'activité physique Sport Santé Peps mis en place par la Ville d'Antibes
+   ID: 5e733a20eaae68437f339cdc
+   Organization: Ville d'Antibes
+   Tags: activite, circuit, exercices, parcours, physique
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/circuits-dactivite-physique-sport-sante-peps-mis-en-place-par-la-ville-dantibes
+   Métriques popularité: 740 visites, 90 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Circuits d'activité physique Sport Santé Peps mis en place par la Ville d'Antibes
+Dataset ID: 5e733a20eaae68437f339cdc
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      31              3              
+2026-04      72              24             
+2026-03      47              11             
+2026-02      44              1              
+2026-01      34              2              
+2025-12      79              11             
+2025-11      71              11             
+2025-10      67              3              
+2025-09      52              7              
+2025-08      85              6              
+2025-07      68              5              
+2025-06      90              6              
+------------------------------------------------------------
+Total        740             90             
+
+5. Sports d'hiver - Sélection de documents des Archives départementales de la Haute-Garonne
+   ID: 66ff691696cfd7bf01679c30
+   Organization: Conseil départemental de la Haute-Garonne - Haute-Garonne Open Data
+   Tags: archives-departementales-de-la-haute-garonne, culture, fonds-labouche, histoire, open-content
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/sports-dhiver-selection-de-documents-des-archives-departementales-de-la-haute-garonne
+   Métriques popularité: 647 visites, 81 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Sports d'hiver - Sélection de documents des Archives départementales de la Haute-Garonne
+Dataset ID: 66ff691696cfd7bf01679c30
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      34              6              
+2026-04      34              7              
+2026-03      39              17             
+2026-02      41              1              
+2026-01      32              0              
+2025-12      51              4              
+2025-11      55              9              
+2025-10      61              0              
+2025-09      43              7              
+2025-08      45              3              
+2025-07      87              7              
+2025-06      125             20             
+------------------------------------------------------------
+Total        647             81             
+
+
+
+========== sport | page 19 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 19 of results:
+
+1. Carte des licenciés sportifs en Seine-Saint-Denis
+   ID: 59591c57a3a7291dcf9c814b
+   Organization: Région Île-de-France
+   Tags: communes, geolocalisation, sport, sport-tourisme-loisirs
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-licencies-sportifs-en-seine-saint-denis
+   Métriques popularité: 729 visites, 152 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des licenciés sportifs en Seine-Saint-Denis
+Dataset ID: 59591c57a3a7291dcf9c814b
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      33              19             
+2026-04      42              15             
+2026-03      62              4              
+2026-02      39              4              
+2026-01      62              3              
+2025-12      77              9              
+2025-11      81              18             
+2025-10      32              7              
+2025-09      47              6              
+2025-08      48              4              
+2025-07      73              17             
+2025-06      133             46             
+------------------------------------------------------------
+Total        729             152            
+
+2. Carte des licenciés sportifs dans le Val-d'Oise
+   ID: 5369902ba3a729239d20392a
+   Organization: Région Île-de-France
+   Tags: communes, geolocalisation, sport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-licencies-sportifs-dans-le-val-d-oise-idf
+   Métriques popularité: 1086 visites, 150 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des licenciés sportifs dans le Val-d'Oise
+Dataset ID: 5369902ba3a729239d20392a
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      20              6              
+2026-04      33              19             
+2026-03      66              26             
+2026-02      54              37             
+2026-01      43              0              
+2025-12      565             10             
+2025-11      78              8              
+2025-10      27              0              
+2025-09      31              4              
+2025-08      35              7              
+2025-07      67              8              
+2025-06      67              25             
+------------------------------------------------------------
+Total        1,086           150            
+
+3. Carte des licenciés sportifs en Seine-et-Marne
+   ID: 59591c51a3a7291dd09c8127
+   Organization: Région Île-de-France
+   Tags: communes, geolocalisation, sport, sport-tourisme-loisirs
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-licencies-sportifs-en-seine-et-marne
+   Métriques popularité: 711 visites, 122 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des licenciés sportifs en Seine-et-Marne
+Dataset ID: 59591c51a3a7291dd09c8127
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      33              21             
+2026-04      117             10             
+2026-03      61              24             
+2026-02      61              1              
+2026-01      66              0              
+2025-12      36              15             
+2025-11      64              9              
+2025-10      17              2              
+2025-09      103             4              
+2025-08      36              4              
+2025-07      52              13             
+2025-06      65              19             
+------------------------------------------------------------
+Total        711             122            
+
+4. Carte des licenciés sportifs en Essonne
+   ID: 59591732a3a7291dcf9c80ad
+   Organization: Région Île-de-France
+   Tags: communes, geolocalisation, sport, sport-tourisme-loisirs
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-licencies-sportifs-en-essonne
+   Métriques popularité: 697 visites, 119 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des licenciés sportifs en Essonne
+Dataset ID: 59591732a3a7291dcf9c80ad
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      100             8              
+2026-04      54              17             
+2026-03      44              12             
+2026-02      74              4              
+2026-01      86              3              
+2025-12      49              11             
+2025-11      44              20             
+2025-10      39              2              
+2025-09      28              5              
+2025-08      36              8              
+2025-07      66              7              
+2025-06      77              22             
+------------------------------------------------------------
+Total        697             119            
+
+5. Carte des licenciés sportifs dans le Val-de-Marne
+   ID: 5369902ba3a729239d203929
+   Organization: Région Île-de-France
+   Tags: communes, geolocalisation, sport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-licencies-sportifs-dans-le-val-de-marne-idf
+   Métriques popularité: 679 visites, 95 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des licenciés sportifs dans le Val-de-Marne
+Dataset ID: 5369902ba3a729239d203929
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      76              5              
+2026-04      41              24             
+2026-03      65              5              
+2026-02      40              1              
+2026-01      39              0              
+2025-12      46              6              
+2025-11      79              17             
+2025-10      35              0              
+2025-09      32              4              
+2025-08      44              6              
+2025-07      72              11             
+2025-06      110             16             
+------------------------------------------------------------
+Total        679             95             
+
+
+
+========== sport | page 20 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 20 of results:
+
+1. Carte des licenciés sportifs dans les Yvelines
+   ID: 5369902aa3a729239d203928
+   Organization: Région Île-de-France
+   Tags: communes, geolocalisation, sport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-licencies-sportifs-dans-les-yvelines-idf
+   Métriques popularité: 922 visites, 372 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des licenciés sportifs dans les Yvelines
+Dataset ID: 5369902aa3a729239d203928
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      35              20             
+2026-04      38              28             
+2026-03      72              15             
+2026-02      61              5              
+2026-01      65              14             
+2025-12      74              22             
+2025-11      64              68             
+2025-10      83              62             
+2025-09      76              67             
+2025-08      148             16             
+2025-07      84              25             
+2025-06      122             30             
+------------------------------------------------------------
+Total        922             372            
+
+2. Carte des licenciés sportifs en Seine-Saint-Denis
+   ID: 5369902ca3a729239d20392d
+   Organization: Région Île-de-France
+   Tags: communes, geolocalisation, sport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-licencies-sportifs-en-seine-saint-denis-idf
+   Métriques popularité: 809 visites, 152 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des licenciés sportifs en Seine-Saint-Denis
+Dataset ID: 5369902ca3a729239d20392d
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      13              7              
+2026-04      40              27             
+2026-03      50              17             
+2026-02      43              3              
+2026-01      52              8              
+2025-12      79              11             
+2025-11      180             16             
+2025-10      32              0              
+2025-09      85              1              
+2025-08      68              13             
+2025-07      67              15             
+2025-06      100             34             
+------------------------------------------------------------
+Total        809             152            
+
+3. Carte des licenciés sportifs en Essonne
+   ID: 5369902ba3a729239d20392b
+   Organization: Région Île-de-France
+   Tags: communes, geolocalisation, sport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-licencies-sportifs-en-essonne-idf
+   Métriques popularité: 672 visites, 109 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des licenciés sportifs en Essonne
+Dataset ID: 5369902ba3a729239d20392b
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      10              18             
+2026-04      25              9              
+2026-03      43              12             
+2026-02      31              0              
+2026-01      30              1              
+2025-12      48              8              
+2025-11      51              8              
+2025-10      42              1              
+2025-09      86              0              
+2025-08      133             11             
+2025-07      84              16             
+2025-06      89              25             
+------------------------------------------------------------
+Total        672             109            
+
+4. Carte des licenciés sportifs dans le Val-de-Marne
+   ID: 59591c49a3a7291dd09c8126
+   Organization: Région Île-de-France
+   Tags: communes, geolocalisation, sport, sport-tourisme-loisirs
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-licencies-sportifs-dans-le-val-de-marne
+   Métriques popularité: 682 visites, 106 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des licenciés sportifs dans le Val-de-Marne
+Dataset ID: 59591c49a3a7291dd09c8126
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      58              16             
+2026-04      74              5              
+2026-03      62              20             
+2026-02      44              3              
+2026-01      27              0              
+2025-12      52              10             
+2025-11      67              10             
+2025-10      27              1              
+2025-09      42              2              
+2025-08      36              9              
+2025-07      70              9              
+2025-06      123             21             
+------------------------------------------------------------
+Total        682             106            
+
+5. Carte des licenciés sportifs dans le Val-d'Oise
+   ID: 5959172ba3a7291dcf9c80ac
+   Organization: Région Île-de-France
+   Tags: communes, geolocalisation, sport, sport-tourisme-loisirs
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-licencies-sportifs-dans-le-val-doise
+   Métriques popularité: 602 visites, 69 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des licenciés sportifs dans le Val-d'Oise
+Dataset ID: 5959172ba3a7291dcf9c80ac
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      10              4              
+2026-04      25              5              
+2026-03      52              9              
+2026-02      43              1              
+2026-01      31              0              
+2025-12      47              5              
+2025-11      39              8              
+2025-10      54              2              
+2025-09      36              4              
+2025-08      149             10             
+2025-07      32              7              
+2025-06      84              14             
+------------------------------------------------------------
+Total        602             69             
+
+

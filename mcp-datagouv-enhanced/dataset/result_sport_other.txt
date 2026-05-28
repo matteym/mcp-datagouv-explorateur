@@ -1,0 +1,2638 @@
+
+========== sport | page 1 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 1 of results:
+
+1. Recensement des équipements sportifs, espaces et sites de pratiques
+   ID: 53699ebba3a729239d205f4f
+   Organization: Ministère chargé des Sports
+   Tags: activite-sportive, data-es, equipement-sportif, recensement, rnb
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques
+   Métriques popularité: 15716 visites, 12294 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Recensement des équipements sportifs, espaces et sites de pratiques
+Dataset ID: 53699ebba3a729239d205f4f
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      1,070           668            
+2026-04      1,346           1,086          
+2026-03      1,549           2,119          
+2026-02      1,438           1,548          
+2026-01      1,562           1,258          
+2025-12      1,504           1,270          
+2025-11      1,507           1,294          
+2025-10      1,325           1,405          
+2025-09      1,207           835            
+2025-08      838             275            
+2025-07      1,217           333            
+2025-06      1,153           203            
+------------------------------------------------------------
+Total        15,716          12,294         
+
+2. Paris 2024 - Sites de compétition
+   ID: 65df34eeb2a9d54adad981d7
+   Organization: Ministère chargé des Sports
+   Tags: paris2024, site-de-competitions-des-jeux-olympiques-et-paralympiques, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-sites-de-competition
+   Métriques popularité: 2507 visites, 1139 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Sites de compétition
+Dataset ID: 65df34eeb2a9d54adad981d7
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      226             175            
+2026-04      512             110            
+2026-03      150             157            
+2026-02      194             133            
+2026-01      432             150            
+2025-12      183             78             
+2025-11      166             83             
+2025-10      151             64             
+2025-10      16              0              
+2025-09      157             42             
+2025-08      176             81             
+2025-07      144             66             
+------------------------------------------------------------
+Total        2,507           1,139          
+
+3. Implantation des sections Sport-Etudes
+   ID: 6850ed41bb975b05e452b636
+   Organization: Ministères de l'Éducation nationale
+   Tags: enseignements-dont-formation-specialite-langue-sport, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/implantation-des-sections-sport-etudes
+   Métriques popularité: 1077 visites, 864 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Implantation des sections Sport-Etudes
+Dataset ID: 6850ed41bb975b05e452b636
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      174             161            
+2026-04      88              123            
+2026-03      79              137            
+2026-02      76              87             
+2026-01      75              55             
+2025-12      137             91             
+2025-11      88              76             
+2025-10      70              29             
+2025-09      56              41             
+2025-08      76              21             
+2025-07      78              23             
+2025-06      80              20             
+------------------------------------------------------------
+Total        1,077           864            
+
+4. Dénombrement des équipements (commerce, sport, services, santé…)
+   ID: 67edcfd916b9f5ccba6ca1da
+   Organization: Institut national de la statistique et des études économiques (Insee)
+   Tags: statistiques
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/denombrement-des-equipements-commerce-sport-services-sante
+   Métriques popularité: 1341 visites, 397 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Dénombrement des équipements (commerce, sport, services, santé…)
+Dataset ID: 67edcfd916b9f5ccba6ca1da
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      77              27             
+2026-04      83              51             
+2026-03      347             54             
+2026-02      112             54             
+2026-01      100             32             
+2025-12      108             34             
+2025-11      74              28             
+2025-10      123             48             
+2025-09      91              28             
+2025-08      54              8              
+2025-07      98              13             
+2025-06      74              20             
+------------------------------------------------------------
+Total        1,341           397            
+
+5. Sport, loisirs et culture : dénombrement, caractéristiques et capacités des équipements
+   ID: 67edcfda16b9f5ccba6ca1dd
+   Organization: Institut national de la statistique et des études économiques (Insee)
+   Tags: statistiques
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/sport-loisirs-et-culture-denombrement-caracteristiques-et-capacites-des-equipements
+   Métriques popularité: 1083 visites, 207 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Sport, loisirs et culture : dénombrement, caractéristiques et capacités des équipements
+Dataset ID: 67edcfda16b9f5ccba6ca1dd
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      170             12             
+2026-04      52              19             
+2026-03      80              39             
+2026-02      98              14             
+2026-01      85              22             
+2025-12      78              17             
+2025-11      64              34             
+2025-10      107             23             
+2025-09      73              11             
+2025-08      68              0              
+2025-07      102             0              
+2025-06      106             16             
+------------------------------------------------------------
+Total        1,083           207            
+
+
+
+========== sport | page 2 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 2 of results:
+
+1. Données géocodées issues du recensement des licences et clubs auprès des fédérations sportives agréées par le ministère chargé des sports
+   ID: 53699ebba3a729239d205f58
+   Organization: Institut national de la jeunesse et de l’éducation populaire
+   Tags: club, clubs, federation, federations, licence
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/donnees-geocodees-issues-du-recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-des-sports
+   Métriques popularité: 17616 visites, 9733 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Données géocodées issues du recensement des licences et clubs auprès des fédérations sportives agréées par le ministère chargé des sports
+Dataset ID: 53699ebba3a729239d205f58
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      1,360           1,050          
+2026-04      1,405           876            
+2026-03      1,541           770            
+2026-02      2,026           948            
+2026-01      1,876           906            
+2025-12      1,773           907            
+2025-11      1,690           745            
+2025-10      1,549           668            
+2025-09      1,162           793            
+2025-08      794             454            
+2025-07      1,007           955            
+2025-06      1,433           661            
+------------------------------------------------------------
+Total        17,616          9,733          
+
+2. Feuilles de route ministérielles sur la politique de la donnée, des algorithmes et des codes sources
+   ID: 6151bd94bf06b42f321cc18a
+   Organization: Etalab
+   Tags: algorithmes, api, codes-sources, data, donnees
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/feuilles-de-route-ministerielles-sur-la-politique-de-la-donnee-des-algorithmes-et-des-codes-sources
+   Métriques popularité: 4986 visites, 4089 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Feuilles de route ministérielles sur la politique de la donnée, des algorithmes et des codes sources
+Dataset ID: 6151bd94bf06b42f321cc18a
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      365             624            
+2026-04      461             426            
+2026-03      415             342            
+2026-02      363             247            
+2026-01      579             329            
+2025-12      597             340            
+2025-11      458             254            
+2025-10      383             358            
+2025-09      265             301            
+2025-08      304             242            
+2025-07      360             322            
+2025-06      436             304            
+------------------------------------------------------------
+Total        4,986           4,089          
+
+3. Base des diplômés des métiers du sport 2015
+   ID: 57d59600c751df032a97bae5
+   Organization: Ministère chargé des Sports
+   Tags: diplome, diplomes, formation, metiers, sport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/base-des-diplomes-des-metiers-du-sport-2015
+   Métriques popularité: 1234 visites, 766 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Base des diplômés des métiers du sport 2015
+Dataset ID: 57d59600c751df032a97bae5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      123             88             
+2026-04      75              63             
+2026-03      70              34             
+2026-02      71              23             
+2026-01      210             151            
+2025-12      79              216            
+2025-11      81              45             
+2025-10      87              35             
+2025-09      83              32             
+2025-08      140             24             
+2025-07      100             21             
+2025-06      115             34             
+------------------------------------------------------------
+Total        1,234           766            
+
+4. Facteurs d'émissions d'équipements de sport
+   ID: 57d66dc788ee383e857fc1d6
+   Organization: Ministère chargé des Sports
+   Tags: carbone, co2, emission, facteur-d-emission, facteurs-d-emission
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/facteurs-demissions-dequipements-de-sport
+   Métriques popularité: 2132 visites, 677 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Facteurs d'émissions d'équipements de sport
+Dataset ID: 57d66dc788ee383e857fc1d6
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      269             48             
+2026-04      86              41             
+2026-03      79              20             
+2026-02      482             13             
+2026-01      348             131            
+2025-12      106             251            
+2025-11      110             30             
+2025-10      104             23             
+2025-09      118             78             
+2025-08      153             19             
+2025-07      129             9              
+2025-06      148             14             
+------------------------------------------------------------
+Total        2,132           677            
+
+5. Évaluation de l'empreinte carbone totale des Jeux Olympiques et Paralympiques de Paris 2024 par catégorie
+   ID: 6932a39e110a08f89b11a88e
+   Description: Bilan carbone des Jeux Olympiques et Paralympiques 2024 divisés en 3 sphères : préparations et opérations des JOP, construction d’infrastructures permanentes et activités associées (spectateurs). ...
+   Organization: Ministère chargé des Sports
+   Tags: donnees-ouvertes
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/evaluation-de-lempreinte-carbone-totale-des-jeux-olympiques-et-paralympiques-de-paris-2024-par-categorie
+   Métriques popularité: 4126 visites, 222 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Évaluation de l'empreinte carbone totale des Jeux Olympiques et Paralympiques de Paris 2024 par catégorie
+Dataset ID: 6932a39e110a08f89b11a88e
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      92              54             
+2026-04      155             48             
+2026-03      119             50             
+2026-02      578             23             
+2026-01      3,168           37             
+2025-12      14              10             
+------------------------------------------------------------
+Total        4,126           222            
+
+
+
+========== sport | page 3 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 3 of results:
+
+1. Liste des médicaments et des substances dopantes
+   ID: 57d59986c751df097c97bae5
+   Organization: Ministère chargé des Sports
+   Tags: dopage, medicaments, sante, sport, sportifs
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/liste-des-medicaments-et-des-substances-dopantes
+   Métriques popularité: 7361 visites, 1606 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Liste des médicaments et des substances dopantes
+Dataset ID: 57d59986c751df097c97bae5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      349             117            
+2026-04      400             102            
+2026-03      519             115            
+2026-02      1,215           107            
+2026-01      884             240            
+2025-12      592             413            
+2025-11      561             91             
+2025-10      689             93             
+2025-09      553             135            
+2025-08      459             48             
+2025-07      457             75             
+2025-06      683             70             
+------------------------------------------------------------
+Total        7,361           1,606          
+
+2. Emploi d’avenir et CUI - CAE  dans les domaines du sport et de l’animation
+   ID: 57d4239bc751df60a697bae5
+   Organization: Ministère chargé des Sports
+   Tags: aide, cui, emploi, insertion-professionnelle, sport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/emploi-davenir-et-cui-cae-dans-les-domaines-du-sport-et-de-lanimation
+   Métriques popularité: 1612 visites, 753 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Emploi d’avenir et CUI - CAE  dans les domaines du sport et de l’animation
+Dataset ID: 57d4239bc751df60a697bae5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      70              16             
+2026-04      85              21             
+2026-03      67              10             
+2026-02      101             5              
+2026-01      321             11             
+2025-12      113             146            
+2025-11      107             231            
+2025-10      103             81             
+2025-09      138             201            
+2025-08      104             18             
+2025-07      230             7              
+2025-06      173             6              
+------------------------------------------------------------
+Total        1,612           753            
+
+3. Athlètes inscrits sur la liste des sportifs de haut niveau en 2015
+   ID: 57d588ddc751df68ed97bae5
+   Organization: Ministère chargé des Sports
+   Tags: athletes, competitions-sportives-internati, haut-niveau, sport, sportifs
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/athletes-inscrits-sur-la-liste-des-sportifs-de-haut-niveau-en-2015
+   Métriques popularité: 1439 visites, 673 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Athlètes inscrits sur la liste des sportifs de haut niveau en 2015
+Dataset ID: 57d588ddc751df68ed97bae5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      78              62             
+2026-04      96              33             
+2026-03      65              44             
+2026-02      66              17             
+2026-01      310             87             
+2025-12      97              141            
+2025-11      115             77             
+2025-10      100             24             
+2025-09      106             135            
+2025-08      144             23             
+2025-07      129             11             
+2025-06      133             19             
+------------------------------------------------------------
+Total        1,439           673            
+
+4. Estimation des émissions carbone des Jeux Olympiques et Paralympiques de Paris 2024 par site de construction permanente
+   ID: 6932de9c07fa7326ab6e941f
+   Description: Émissions carbone liées à la construction de sites permanents (sphère 2 du CIO) nécessaires au déroulement des Jeux Olympiques et Paralympiques 2024....
+   Organization: Ministère chargé des Sports
+   Tags: emissions, gestion-environnementale, impact-carbone, infrastructures, paris-2024
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/estimation-des-emissions-carbone-des-jeux-olympiques-et-paralympiques-de-paris-2024-par-site-de-construction-permanente
+   Métriques popularité: 3995 visites, 179 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Estimation des émissions carbone des Jeux Olympiques et Paralympiques de Paris 2024 par site de construction permanente
+Dataset ID: 6932de9c07fa7326ab6e941f
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      74              53             
+2026-04      153             42             
+2026-03      107             20             
+2026-02      566             34             
+2026-01      3,078           20             
+2025-12      17              10             
+------------------------------------------------------------
+Total        3,995           179            
+
+5. Liste des athlètes franciliens « Ambassadeurs du sport »
+   ID: 536998d9a3a729239d205094
+   Organization: Région Île-de-France
+   Tags: sport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/liste-des-athletes-franciliens-ambassadeurs-du-sport-idf
+   Métriques popularité: 717 visites, 90 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Liste des athlètes franciliens « Ambassadeurs du sport »
+Dataset ID: 536998d9a3a729239d205094
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      21              3              
+2026-04      24              8              
+2026-03      54              9              
+2026-02      137             7              
+2026-01      100             1              
+2025-12      50              8              
+2025-11      53              7              
+2025-10      32              1              
+2025-09      40              6              
+2025-08      68              10             
+2025-07      56              10             
+2025-06      82              20             
+------------------------------------------------------------
+Total        717             90             
+
+
+
+========== sport | page 4 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 4 of results:
+
+1. Associations Reconnues d'Utilité Publique
+   ID: 53698f1aa3a729239d203653
+   Organization: Ministère de l'intérieur
+   Tags: arup, association, dlpaj, utilite-publique
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/associations-reconnues-d-utilite-publique
+   Métriques popularité: 87393 visites, 42470 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Associations Reconnues d'Utilité Publique
+Dataset ID: 53698f1aa3a729239d203653
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      5,190           2,479          
+2026-04      5,742           2,896          
+2026-03      6,961           3,537          
+2026-02      6,800           3,413          
+2026-01      7,666           3,893          
+2025-12      10,275          4,479          
+2025-11      8,472           4,131          
+2025-10      8,552           4,440          
+2025-09      7,279           4,009          
+2025-08      4,882           2,308          
+2025-07      6,837           3,026          
+2025-06      8,737           3,859          
+------------------------------------------------------------
+Total        87,393          42,470         
+
+2. JO 2024 : communes labellisées Terres de jeux 2024
+   ID: 6350c887d95d644f9c487174
+   Organization: Ministère de la Culture
+   Tags: culture, deps-doc, ministeredelaculture
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/jo-2024-communes-labellisees-terres-de-jeux-2024
+   Métriques popularité: 1583 visites, 2156 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: JO 2024 : communes labellisées Terres de jeux 2024
+Dataset ID: 6350c887d95d644f9c487174
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      177             14             
+2026-04      90              2,026          
+2026-03      96              18             
+2026-02      110             18             
+2026-01      180             13             
+2025-12      131             8              
+2025-11      104             13             
+2025-10      102             10             
+2025-09      108             16             
+2025-08      109             4              
+2025-07      150             0              
+2025-06      226             16             
+------------------------------------------------------------
+Total        1,583           2,156          
+
+3. Subventions allouées en 2015 par le Centre National pour le Développement du Sport (CNDS)
+   ID: 57d579a4c751df4d2a97bae5
+   Organization: Ministère chargé des Sports
+   Tags: cnds, equipements-sportifs, sport, subvention, subventions
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/subventions-allouees-en-2015-par-le-centre-national-pour-le-developpement-du-sport-cnds
+   Métriques popularité: 1364 visites, 945 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Subventions allouées en 2015 par le Centre National pour le Développement du Sport (CNDS)
+Dataset ID: 57d579a4c751df4d2a97bae5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      81              156            
+2026-04      100             145            
+2026-03      65              66             
+2026-02      86              60             
+2026-01      297             93             
+2025-12      106             67             
+2025-11      85              49             
+2025-10      105             103            
+2025-09      96              83             
+2025-08      113             49             
+2025-07      109             33             
+2025-06      121             41             
+------------------------------------------------------------
+Total        1,364           945            
+
+4. Base de données "Corps & diplômes" du ministère des sports, de la jeunesse, de l’éducation populaire et de la vie associative
+   ID: 53698f4da3a729239d2036eb
+   Organization: Ministère chargé des Sports
+   Tags: arrete, decret, diplomes, jeunesse, lois
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/base-de-donnees-corps-diplomes-du-ministere-des-sports-de-la-jeunesse-de-l-education-populaire-et-de
+   Métriques popularité: 1470 visites, 344 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Base de données "Corps & diplômes" du ministère des sports, de la jeunesse, de l’éducation populaire et de la vie associative
+Dataset ID: 53698f4da3a729239d2036eb
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      99              60             
+2026-04      75              47             
+2026-03      77              12             
+2026-02      124             7              
+2026-01      202             17             
+2025-12      149             15             
+2025-11      136             43             
+2025-10      105             42             
+2025-09      94              25             
+2025-08      95              1              
+2025-07      169             48             
+2025-06      145             27             
+------------------------------------------------------------
+Total        1,470           344            
+
+5. Indicateurs de résultat des lycées d'enseignement professionnel
+   ID: 53699692a3a729239d204a8c
+   Organization: Ministères de l'Éducation nationale
+   Tags: enseignement-professionnel, indicateur-de, indicateur-de-valeur-ajoute, lycee
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/indicateurs-de-resultat-des-lycees-denseignement-professionnel
+   Métriques popularité: 1098 visites, 0 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Indicateurs de résultat des lycées d'enseignement professionnel
+Dataset ID: 53699692a3a729239d204a8c
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      78              0              
+2026-04      87              0              
+2026-03      73              0              
+2026-02      67              0              
+2026-01      147             0              
+2025-12      111             0              
+2025-11      105             0              
+2025-10      72              0              
+2025-09      81              0              
+2025-08      98              0              
+2025-07      72              0              
+2025-06      107             0              
+------------------------------------------------------------
+Total        1,098           0              
+
+
+
+========== sport | page 5 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 5 of results:
+
+1. Effectifs d’étudiants inscrits dans les établissements et les formations de l’enseignement supérieur
+   ID: 53699373a3a729239d2041c5
+   Organization: Ministère de l'Enseignement supérieur, de la Recherche et de l'Espace
+   Tags: academie, commune, departement, effectif, etudiant
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/effectifs-d-etudiants-inscrits-dans-les-etablissements-et-les-formations-de-l-enseignement-superieur
+   Métriques popularité: 3838 visites, 1045 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Effectifs d’étudiants inscrits dans les établissements et les formations de l’enseignement supérieur
+Dataset ID: 53699373a3a729239d2041c5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      395             140            
+2026-04      364             143            
+2026-03      225             76             
+2026-02      388             63             
+2026-01      438             70             
+2025-12      239             78             
+2025-11      303             114            
+2025-10      334             63             
+2025-09      329             81             
+2025-08      236             58             
+2025-07      248             81             
+2025-06      339             78             
+------------------------------------------------------------
+Total        3,838           1,045          
+
+2. Base des Conseillers Techniques Sportifs 
+   ID: 57d5947fc751df7e0c97bae5
+   Organization: Ministère chargé des Sports
+   Tags: conseillers-techniques, modalites-d-intervention, sport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/base-des-conseillers-techniques-sportifs
+   Métriques popularité: 1914 visites, 888 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Base des Conseillers Techniques Sportifs 
+Dataset ID: 57d5947fc751df7e0c97bae5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      107             88             
+2026-04      131             64             
+2026-03      145             74             
+2026-02      154             30             
+2026-01      205             110            
+2025-12      182             281            
+2025-11      145             34             
+2025-10      151             38             
+2025-09      154             102            
+2025-08      174             29             
+2025-07      179             13             
+2025-06      187             25             
+------------------------------------------------------------
+Total        1,914           888            
+
+3. Référentiel d'indicateurs pour auto-évaluer  l'éco-responsabilité d'événements sportifs
+   ID: 57d6708388ee383e857fc1d7
+   Organization: Ministère chargé des Sports
+   Tags: auto-evaluer, eco-responsabilite, energie, evaluation-environnementale, evenements-sportifs
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/referentiel-dindicateurs-pour-auto-evaluer-leco-responsabilite-devenements-sportifs
+   Métriques popularité: 1227 visites, 242 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Référentiel d'indicateurs pour auto-évaluer  l'éco-responsabilité d'événements sportifs
+Dataset ID: 57d6708388ee383e857fc1d7
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      77              28             
+2026-04      40              21             
+2026-03      65              20             
+2026-02      60              12             
+2026-01      136             22             
+2025-12      90              21             
+2025-11      107             22             
+2025-10      101             23             
+2025-09      97              24             
+2025-08      139             22             
+2025-07      139             13             
+2025-06      176             14             
+------------------------------------------------------------
+Total        1,227           242            
+
+4. L'état de l'École
+   ID: 55098945c751df3c2f882844
+   Organization: Ministères de l'Éducation nationale
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/letat-de-lecole
+   Métriques popularité: 1939 visites, 223 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: L'état de l'École
+Dataset ID: 55098945c751df3c2f882844
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      260             12             
+2026-04      114             6              
+2026-03      89              5              
+2026-02      168             17             
+2026-01      154             5              
+2025-12      171             2              
+2025-11      218             37             
+2025-10      140             43             
+2025-09      116             35             
+2025-08      207             24             
+2025-07      125             22             
+2025-06      177             15             
+------------------------------------------------------------
+Total        1,939           223            
+
+5. Ensemble des jeux de données sur le dénombrement des équipements (commerce, sport, service, santé, enseignement, etc.)
+   ID: 68c19638053dc669ffd615e2
+   Organization: Institut national de la statistique et des études économiques (Insee)
+   Tags: equipements
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/ensemble-des-jeux-de-donnees-sur-le-denombrement-des-equipements-commerce-sport-service-sante-enseignement-etc
+   Métriques popularité: 949 visites, 67 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Ensemble des jeux de données sur le dénombrement des équipements (commerce, sport, service, santé, enseignement, etc.)
+Dataset ID: 68c19638053dc669ffd615e2
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      152             6              
+2026-04      55              5              
+2026-03      140             13             
+2026-02      96              13             
+2026-01      69              5              
+2025-12      140             3              
+2025-11      49              8              
+2025-10      67              8              
+2025-09      181             6              
+------------------------------------------------------------
+Total        949             67             
+
+
+
+========== sport | page 6 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 6 of results:
+
+1. Paris 2024 - Événements Olympiade Culturelle
+   ID: 65df34efcbf039c085102128
+   Organization: Ministère chargé des Sports
+   Tags: olympiade-culturelle, paris2024, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-evenements-olympiade-culturelle
+   Métriques popularité: 1163 visites, 860 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Événements Olympiade Culturelle
+Dataset ID: 65df34efcbf039c085102128
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      164             191            
+2026-04      84              123            
+2026-03      127             120            
+2026-02      65              31             
+2026-01      146             84             
+2025-12      72              56             
+2025-11      79              105            
+2025-10      91              25             
+2025-10      6               2              
+2025-09      83              23             
+2025-08      132             60             
+2025-07      114             40             
+------------------------------------------------------------
+Total        1,163           860            
+
+2. Paris 2024 - PSA spectateurs
+   ID: 6634298d65b6d04c70069d11
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-psa-spectateurs
+   Métriques popularité: 1323 visites, 471 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - PSA spectateurs
+Dataset ID: 6634298d65b6d04c70069d11
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      115             85             
+2026-04      92              54             
+2026-03      99              105            
+2026-02      87              9              
+2026-01      155             21             
+2025-12      121             23             
+2025-11      159             63             
+2025-10      15              0              
+2025-10      122             11             
+2025-09      148             18             
+2025-08      120             48             
+2025-07      90              34             
+------------------------------------------------------------
+Total        1,323           471            
+
+3. Paris 2024 - Périmètres de sécurité
+   ID: 66db980bc2058393f1709392
+   Organization: Ministère chargé des Sports
+   Tags: perimetres, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-perimetres-de-securite
+   Métriques popularité: 807 visites, 456 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Périmètres de sécurité
+Dataset ID: 66db980bc2058393f1709392
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      60              99             
+2026-04      56              36             
+2026-03      63              76             
+2026-02      46              3              
+2026-01      101             34             
+2025-12      62              29             
+2025-11      82              58             
+2025-10      106             18             
+2025-09      53              12             
+2025-08      58              14             
+2025-07      76              27             
+2025-07      44              50             
+------------------------------------------------------------
+Total        807             456            
+
+4. Référentiel d’activités physiques et sportives
+   ID: 5c7e67138b4c4151a709037d
+   Organization: Ministère chargé des Sports
+   Tags: activites-physiques-et-sportives, sports
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/referentiel-dactivites-physiques-et-sportives
+   Métriques popularité: 1297 visites, 258 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Référentiel d’activités physiques et sportives
+Dataset ID: 5c7e67138b4c4151a709037d
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      73              19             
+2026-04      62              10             
+2026-03      77              12             
+2026-02      126             14             
+2026-01      244             26             
+2025-12      109             129            
+2025-11      78              7              
+2025-10      69              8              
+2025-09      97              14             
+2025-08      77              6              
+2025-07      115             6              
+2025-06      170             7              
+------------------------------------------------------------
+Total        1,297           258            
+
+5. Paris 2024 - FAQ
+   ID: 65df34eecbf039c085102127
+   Organization: Ministère chargé des Sports
+   Tags: faq, paris2024, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-faq
+   Métriques popularité: 590 visites, 244 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - FAQ
+Dataset ID: 65df34eecbf039c085102127
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      14              3              
+2026-04      55              41             
+2026-03      64              18             
+2026-02      30              11             
+2026-01      29              25             
+2025-12      50              15             
+2025-11      68              52             
+2025-10      59              11             
+2025-10      4               2              
+2025-09      81              24             
+2025-08      61              20             
+2025-07      75              22             
+------------------------------------------------------------
+Total        590             244            
+
+
+
+========== sport | page 7 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 7 of results:
+
+1. Paris 2024 - Centres de préparation aux Jeux
+   ID: 65df34efa2773f4101102129
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-centres-de-preparation-aux-jeux
+   Métriques popularité: 1515 visites, 665 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Centres de préparation aux Jeux
+Dataset ID: 65df34efa2773f4101102129
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      95              93             
+2026-04      106             45             
+2026-03      64              76             
+2026-02      87              111            
+2026-01      558             99             
+2025-12      131             68             
+2025-11      97              50             
+2025-10      51              14             
+2025-10      4               0              
+2025-09      70              24             
+2025-08      137             48             
+2025-07      115             37             
+------------------------------------------------------------
+Total        1,515           665            
+
+2. Paris 2024 - Résultats des médaillés pour chaque discipline Olympique
+   ID: 672301060dcb9f1a3720e0ec
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-resultats-des-medailles-pour-chaque-discipline-olympique
+   Métriques popularité: 3388 visites, 640 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Résultats des médaillés pour chaque discipline Olympique
+Dataset ID: 672301060dcb9f1a3720e0ec
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      152             109            
+2026-04      194             45             
+2026-03      318             104            
+2026-02      783             107            
+2026-01      474             99             
+2025-12      320             55             
+2025-11      222             39             
+2025-10      74              21             
+2025-10      213             14             
+2025-09      245             12             
+2025-08      194             10             
+2025-07      199             25             
+------------------------------------------------------------
+Total        3,388           640            
+
+3. Relations géographiques distantes des licences 2013 des fédérations sportives à leur club
+   ID: 57d574d8c751df448697bae5
+   Organization: Ministère chargé des Sports
+   Tags: club, federations, federations-sportives, licences, pratiques-sportives
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/relations-geographiques-distantes-des-licences-2013-des-federations-sportives-a-leur-club
+   Métriques popularité: 1211 visites, 455 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Relations géographiques distantes des licences 2013 des fédérations sportives à leur club
+Dataset ID: 57d574d8c751df448697bae5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      132             101            
+2026-04      72              81             
+2026-03      67              29             
+2026-02      70              18             
+2026-01      158             20             
+2025-12      55              33             
+2025-11      71              33             
+2025-10      76              27             
+2025-09      70              41             
+2025-08      140             24             
+2025-07      100             19             
+2025-06      200             29             
+------------------------------------------------------------
+Total        1,211           455            
+
+4. Paris 2024 - Boutiques officielles
+   ID: 65df34eea2773f4101102128
+   Organization: Ministère chargé des Sports
+   Tags: boutiques-officielles, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-boutiques-officielles
+   Métriques popularité: 714 visites, 326 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Boutiques officielles
+Dataset ID: 65df34eea2773f4101102128
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      125             51             
+2026-04      55              19             
+2026-03      63              63             
+2026-02      42              7              
+2026-01      48              15             
+2025-12      28              24             
+2025-11      62              53             
+2025-10      50              10             
+2025-10      4               1              
+2025-09      71              29             
+2025-08      63              21             
+2025-07      103             33             
+------------------------------------------------------------
+Total        714             326            
+
+5. Carte des Jeux - Evènements (EN)
+   ID: 672300e30dcb9f1a3720e0df
+   Organization: Ministère chargé des Sports
+   Tags: paris2024, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-jeux-evenements-en
+   Métriques popularité: 986 visites, 268 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des Jeux - Evènements (EN)
+Dataset ID: 672300e30dcb9f1a3720e0df
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      197             34             
+2026-04      50              21             
+2026-03      64              60             
+2026-02      88              41             
+2026-01      74              13             
+2025-12      56              4              
+2025-11      221             31             
+2025-10      5               2              
+2025-10      57              7              
+2025-09      50              12             
+2025-08      50              8              
+2025-07      74              35             
+------------------------------------------------------------
+Total        986             268            
+
+
+
+========== sport | page 8 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 8 of results:
+
+1. Carte des Jeux - Road Events (EN)
+   ID: 672300e30dcb9f1a3720e0e1
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-jeux-road-events-en
+   Métriques popularité: 933 visites, 241 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des Jeux - Road Events (EN)
+Dataset ID: 672300e30dcb9f1a3720e0e1
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      111             22             
+2026-04      106             30             
+2026-03      74              54             
+2026-02      65              34             
+2026-01      258             9              
+2025-12      47              4              
+2025-11      75              28             
+2025-10      6               0              
+2025-10      55              8              
+2025-09      31              12             
+2025-08      42              4              
+2025-07      63              36             
+------------------------------------------------------------
+Total        933             241            
+
+2. Paris 2024 - Flux piétons accrédités
+   ID: 672301070dcb9f1a3720e0ee
+   Organization: Ministère chargé des Sports
+   Tags: accredites, mobilite, sport-jeunesse-et-vie-associative, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-flux-pietons-accredites
+   Métriques popularité: 1515 visites, 235 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Flux piétons accrédités
+Dataset ID: 672301070dcb9f1a3720e0ee
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      122             57             
+2026-04      75              21             
+2026-03      97              35             
+2026-02      108             31             
+2026-01      136             3              
+2025-12      106             11             
+2025-11      193             24             
+2025-10      41              0              
+2025-10      152             9              
+2025-09      152             7              
+2025-08      140             11             
+2025-07      193             26             
+------------------------------------------------------------
+Total        1,515           235            
+
+3. Paris 2024 - Lignes CHC
+   ID: 672300e20dcb9f1a3720e0dd
+   Organization: Ministère chargé des Sports
+   Tags: accredites, mobilite, sport-jeunesse-et-vie-associative, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-lignes-chc
+   Métriques popularité: 1234 visites, 115 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Lignes CHC
+Dataset ID: 672300e20dcb9f1a3720e0dd
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      287             14             
+2026-04      32              7              
+2026-03      70              18             
+2026-02      375             1              
+2026-01      139             14             
+2025-12      36              5              
+2025-11      48              23             
+2025-10      5               0              
+2025-10      36              0              
+2025-09      31              2              
+2025-08      50              12             
+2025-07      125             19             
+------------------------------------------------------------
+Total        1,234           115            
+
+4. Sport Santé en Collectivité pour les agents de la Ville d'Antibes
+   ID: 62875ca978a7f2f47105116b
+   Description: Activités sportives proposées par la Ville d’Antibes à ses agents (démarche interne) et ce depuis 2018....
+   Organization: Ville d'Antibes
+   Tags: bien-etre, cohesion, confiance, efficacite, lien
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/sport-sante-en-collectivite-pour-les-agents-de-la-ville-dantibes
+   Métriques popularité: 567 visites, 109 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Sport Santé en Collectivité pour les agents de la Ville d'Antibes
+Dataset ID: 62875ca978a7f2f47105116b
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      23              11             
+2026-04      40              7              
+2026-03      55              13             
+2026-02      50              8              
+2026-01      32              23             
+2025-12      52              25             
+2025-11      27              5              
+2025-10      35              8              
+2025-09      59              3              
+2025-08      48              0              
+2025-07      43              0              
+2025-06      103             6              
+------------------------------------------------------------
+Total        567             109            
+
+5. Programme d'enseignement de Design et arts appliqués pour le cycle terminal de la série STD2A
+   ID: 53699e36a3a729239d205e0f
+   Organization: Ministères de l'Éducation nationale
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/programme-d-enseignement-de-design-et-arts-appliques-pour-le-cycle-terminal-de-la-serie-std-30377693
+   Métriques popularité: 529 visites, 0 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Programme d'enseignement de Design et arts appliqués pour le cycle terminal de la série STD2A
+Dataset ID: 53699e36a3a729239d205e0f
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      62              0              
+2026-04      25              0              
+2026-03      49              0              
+2026-02      33              0              
+2026-01      35              0              
+2025-12      52              0              
+2025-11      47              0              
+2025-10      26              0              
+2025-09      27              0              
+2025-08      40              0              
+2025-07      60              0              
+2025-06      73              0              
+------------------------------------------------------------
+Total        529             0              
+
+
+
+========== sport | page 9 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 9 of results:
+
+1. Liste des médailles obtenues par des sportifs français aux Jeux Olympiques et paralympiques de 2012 et de 2014
+   ID: 57d587c5c751df66e397bae5
+   Organization: Ministère chargé des Sports
+   Tags: jeux-olympiques, medailles, sport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/liste-des-medailles-obtenues-par-des-sportifs-francais-aux-jeux-olympiques-et-paralympiques-de-2012-et-de-2014
+   Métriques popularité: 2528 visites, 762 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Liste des médailles obtenues par des sportifs français aux Jeux Olympiques et paralympiques de 2012 et de 2014
+Dataset ID: 57d587c5c751df66e397bae5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      786             115            
+2026-04      232             80             
+2026-03      149             68             
+2026-02      137             22             
+2026-01      281             58             
+2025-12      102             24             
+2025-11      95              29             
+2025-10      112             40             
+2025-09      96              275            
+2025-08      153             23             
+2025-07      165             8              
+2025-06      220             20             
+------------------------------------------------------------
+Total        2,528           762            
+
+2. Carte des Jeux - Evènements (FR)
+   ID: 672300e20dcb9f1a3720e0dc
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-jeux-evenements-fr
+   Métriques popularité: 939 visites, 212 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des Jeux - Evènements (FR)
+Dataset ID: 672300e20dcb9f1a3720e0dc
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      139             26             
+2026-04      55              28             
+2026-03      53              50             
+2026-02      65              36             
+2026-01      243             13             
+2025-12      57              5              
+2025-11      66              19             
+2025-10      4               0              
+2025-10      54              7              
+2025-09      33              3              
+2025-08      64              9              
+2025-07      106             16             
+------------------------------------------------------------
+Total        939             212            
+
+3. Séries chronologiques Education 
+   ID: 54aa91f8c751df41a204805e
+   Organization: Ministères de l'Éducation nationale
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/series-chronologiques-education
+   Métriques popularité: 1922 visites, 204 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Séries chronologiques Education 
+Dataset ID: 54aa91f8c751df41a204805e
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      95              8              
+2026-04      84              10             
+2026-03      96              15             
+2026-02      175             10             
+2026-01      401             14             
+2025-12      84              11             
+2025-11      99              8              
+2025-10      137             15             
+2025-09      125             22             
+2025-08      264             30             
+2025-07      184             32             
+2025-06      178             29             
+------------------------------------------------------------
+Total        1,922           204            
+
+4. Equipements publics de sport et loisirs sur le territoire de m2A
+   ID: 5be560f49ce2e72d6683100f
+   Organization: Mulhouse Alsace Agglomération
+   Tags: arc, boulodrome, centre, equipement, football
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/equipements-publics-de-sport-et-loisirs-sur-le-territoire-de-m2a
+   Métriques popularité: 701 visites, 160 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Equipements publics de sport et loisirs sur le territoire de m2A
+Dataset ID: 5be560f49ce2e72d6683100f
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      39              13             
+2026-04      57              12             
+2026-03      50              24             
+2026-02      46              5              
+2026-01      55              0              
+2025-12      50              6              
+2025-11      67              16             
+2025-10      47              4              
+2025-09      53              14             
+2025-08      66              7              
+2025-07      84              26             
+2025-06      87              33             
+------------------------------------------------------------
+Total        701             160            
+
+5. Paris 2024 - Lignes PARA TA
+   ID: 672300e10dcb9f1a3720e0d8
+   Organization: Ministère chargé des Sports
+   Tags: accredites, athletes, mobilite, sport-jeunesse-et-vie-associative, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-lignes-para-ta
+   Métriques popularité: 790 visites, 139 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Lignes PARA TA
+Dataset ID: 672300e10dcb9f1a3720e0d8
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      38              32             
+2026-04      30              5              
+2026-03      158             30             
+2026-02      191             15             
+2026-01      76              6              
+2025-12      23              6              
+2025-11      44              17             
+2025-10      5               0              
+2025-10      29              7              
+2025-09      30              0              
+2025-08      60              11             
+2025-07      106             10             
+------------------------------------------------------------
+Total        790             139            
+
+
+
+========== sport | page 10 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 10 of results:
+
+1. Paris 2024 - Parkings accrédités
+   ID: 66db980ac2058393f170938e
+   Organization: Ministère chargé des Sports
+   Tags: mobilte, sport-jeunesse-et-vie-associative, stationnement, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-parkings-accredites
+   Métriques popularité: 593 visites, 553 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Parkings accrédités
+Dataset ID: 66db980ac2058393f170938e
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      32              60             
+2026-04      39              39             
+2026-03      47              124            
+2026-02      41              123            
+2026-01      52              16             
+2025-12      50              34             
+2025-11      67              52             
+2025-10      3               0              
+2025-10      118             7              
+2025-09      58              25             
+2025-08      48              19             
+2025-07      38              54             
+------------------------------------------------------------
+Total        593             553            
+
+2. Paris 2024 - Tracés des road events
+   ID: 66db980bc2058393f1709391
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-traces-des-road-events
+   Métriques popularité: 1156 visites, 515 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Tracés des road events
+Dataset ID: 66db980bc2058393f1709391
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      35              123            
+2026-04      92              34             
+2026-03      115             89             
+2026-02      78              7              
+2026-01      432             39             
+2025-12      72              29             
+2025-11      85              67             
+2025-10      2               1              
+2025-10      102             30             
+2025-09      61              26             
+2025-08      48              28             
+2025-07      34              42             
+------------------------------------------------------------
+Total        1,156           515            
+
+3. Paris 2024 - Voies Olympiques et Paralympiques
+   ID: 66db980bc2058393f1709390
+   Organization: Ministère chargé des Sports
+   Tags: mobilite, orn, prn, sport-jeunesse-et-vie-associative, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-voies-olympiques-et-paralympiques
+   Métriques popularité: 819 visites, 494 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Voies Olympiques et Paralympiques
+Dataset ID: 66db980bc2058393f1709390
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      49              140            
+2026-04      45              28             
+2026-03      76              91             
+2026-02      49              3              
+2026-01      190             19             
+2025-12      53              22             
+2025-11      79              63             
+2025-10      2               0              
+2025-10      104             23             
+2025-09      61              15             
+2025-08      57              24             
+2025-07      54              66             
+------------------------------------------------------------
+Total        819             494            
+
+4. Paris 2024 - Calendrier des sessions [Version simplifiée]
+   ID: 66db980cc2058393f1709393
+   Organization: Ministère chargé des Sports
+   Tags: calendrier, paris2024, sessions, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-calendrier-des-sessions-version-simplifiee
+   Métriques popularité: 1349 visites, 483 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Calendrier des sessions [Version simplifiée]
+Dataset ID: 66db980cc2058393f1709393
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      119             106            
+2026-04      102             46             
+2026-03      192             73             
+2026-02      170             20             
+2026-01      180             15             
+2025-12      86              32             
+2025-11      91              53             
+2025-10      5               0              
+2025-10      107             12             
+2025-09      85              47             
+2025-08      156             17             
+2025-07      56              62             
+------------------------------------------------------------
+Total        1,349           483            
+
+5. Carte des Jeux - Position de la flamme
+   ID: 672300e20dcb9f1a3720e0da
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-jeux-position-de-la-flamme
+   Métriques popularité: 579 visites, 177 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des Jeux - Position de la flamme
+Dataset ID: 672300e20dcb9f1a3720e0da
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      30              42             
+2026-04      22              5              
+2026-03      40              26             
+2026-02      53              17             
+2026-01      31              3              
+2025-12      50              4              
+2025-11      87              25             
+2025-10      7               1              
+2025-10      35              7              
+2025-09      43              12             
+2025-08      45              0              
+2025-07      136             35             
+------------------------------------------------------------
+Total        579             177            
+
+
+
+========== sport | page 11 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 11 of results:
+
+1. Paris 2024 - Parkings vélo spectateurs en IDF
+   ID: 65df34eea25de21ef3d981d7
+   Organization: Ministère chargé des Sports
+   Tags: equipements, parkings-velo, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-parkings-velo-spectateurs-en-idf
+   Métriques popularité: 676 visites, 489 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Parkings vélo spectateurs en IDF
+Dataset ID: 65df34eea25de21ef3d981d7
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      81              57             
+2026-04      89              22             
+2026-03      90              132            
+2026-02      42              96             
+2026-01      38              28             
+2025-12      33              19             
+2025-11      47              46             
+2025-10      48              7              
+2025-10      2               0              
+2025-09      69              26             
+2025-08      54              24             
+2025-07      83              32             
+------------------------------------------------------------
+Total        676             489            
+
+2. Traces du sport à Antibes Juan-les-Pins
+   ID: 6448e3fce7e52e625ad9ced5
+   Organization: Ville d'Antibes
+   Tags: histoire, jeux-olympiques, memoire, patrimoine, sport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/traces-du-sport-a-antibes-juan-les-pins
+   Métriques popularité: 688 visites, 231 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Traces du sport à Antibes Juan-les-Pins
+Dataset ID: 6448e3fce7e52e625ad9ced5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      34              8              
+2026-04      283             10             
+2026-03      31              5              
+2026-02      33              63             
+2026-01      27              1              
+2025-12      41              127            
+2025-11      37              1              
+2025-10      27              1              
+2025-09      34              2              
+2025-08      72              4              
+2025-07      42              7              
+2025-06      27              2              
+------------------------------------------------------------
+Total        688             231            
+
+3. Paris 2024 - Lignes OLY TA
+   ID: 672452575b7941646d20e0d4
+   Organization: Ministère chargé des Sports
+   Tags: accredites, athletes, mobilite, sport-jeunesse-et-vie-associative, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-lignes-oly-ta
+   Métriques popularité: 810 visites, 204 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Lignes OLY TA
+Dataset ID: 672452575b7941646d20e0d4
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      76              11             
+2026-04      32              38             
+2026-03      249             37             
+2026-02      74              35             
+2026-01      57              1              
+2025-12      46              5              
+2025-11      59              27             
+2025-10      41              11             
+2025-10      8               1              
+2025-09      36              8              
+2025-08      64              7              
+2025-07      68              23             
+------------------------------------------------------------
+Total        810             204            
+
+4. Paris 2024 - Lignes PARA TF
+   ID: 672300f30dcb9f1a3720e0e4
+   Organization: Ministère chargé des Sports
+   Tags: accredites, mobilite, sport-jeunesse-et-vie-associative, tf, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-lignes-para-tf
+   Métriques popularité: 1059 visites, 185 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Lignes PARA TF
+Dataset ID: 672300f30dcb9f1a3720e0e4
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      53              9              
+2026-04      50              10             
+2026-03      238             27             
+2026-02      236             65             
+2026-01      65              3              
+2025-12      73              10             
+2025-11      73              21             
+2025-10      9               0              
+2025-10      43              2              
+2025-09      51              2              
+2025-08      70              5              
+2025-07      98              31             
+------------------------------------------------------------
+Total        1,059           185            
+
+5. Cartes des sites - Venues POI (EN)
+   ID: 672301020dcb9f1a3720e0e7
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative, wemap
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/cartes-des-sites-venues-poi-en
+   Métriques popularité: 837 visites, 55 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Cartes des sites - Venues POI (EN)
+Dataset ID: 672301020dcb9f1a3720e0e7
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      21              0              
+2026-04      43              6              
+2026-03      150             18             
+2026-02      135             1              
+2026-01      182             4              
+2025-12      32              2              
+2025-11      53              13             
+2025-10      1               0              
+2025-10      35              0              
+2025-09      31              0              
+2025-08      60              5              
+2025-07      94              6              
+------------------------------------------------------------
+Total        837             55             
+
+
+
+========== sport | page 12 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 12 of results:
+
+1. Carte des Jeux - Road Events (FR)
+   ID: 672301050dcb9f1a3720e0eb
+   Organization: Ministère chargé des Sports
+   Tags: paris2024, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/carte-des-jeux-road-events-fr
+   Métriques popularité: 720 visites, 214 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Carte des Jeux - Road Events (FR)
+Dataset ID: 672301050dcb9f1a3720e0eb
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      110             35             
+2026-04      71              39             
+2026-03      77              50             
+2026-02      62              22             
+2026-01      43              5              
+2025-12      51              4              
+2025-11      69              19             
+2025-10      5               0              
+2025-10      55              6              
+2025-09      43              8              
+2025-08      60              8              
+2025-07      74              18             
+------------------------------------------------------------
+Total        720             214            
+
+2. Paris 2024 - Lignes PARA DDS
+   ID: 672301030dcb9f1a3720e0e9
+   Organization: Ministère chargé des Sports
+   Tags: accredites, dds, mobilite, obs, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-lignes-para-dds
+   Métriques popularité: 873 visites, 192 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Lignes PARA DDS
+Dataset ID: 672301030dcb9f1a3720e0e9
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      40              18             
+2026-04      44              16             
+2026-03      60              42             
+2026-02      303             37             
+2026-01      114             3              
+2025-12      37              16             
+2025-11      48              17             
+2025-10      4               3              
+2025-10      38              8              
+2025-09      35              1              
+2025-08      43              11             
+2025-07      107             20             
+------------------------------------------------------------
+Total        873             192            
+
+3. Paris 2024 - Lignes OLY DDS
+   ID: 672300e10dcb9f1a3720e0d6
+   Organization: Ministère chargé des Sports
+   Tags: accredites, dds, mobilite, obs, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-lignes-oly-dds
+   Métriques popularité: 976 visites, 153 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Lignes OLY DDS
+Dataset ID: 672300e10dcb9f1a3720e0d6
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      115             8              
+2026-04      46              12             
+2026-03      63              31             
+2026-02      142             16             
+2026-01      245             5              
+2025-12      41              10             
+2025-11      64              24             
+2025-10      6               0              
+2025-10      43              1              
+2025-09      50              5              
+2025-08      58              8              
+2025-07      103             33             
+------------------------------------------------------------
+Total        976             153            
+
+4. Paris 2024 - Lignes PARA TC
+   ID: 672300e40dcb9f1a3720e0e3
+   Organization: Ministère chargé des Sports
+   Tags: accredites, mobilite, sport-jeunesse-et-vie-associative, transport, workforce
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-lignes-para-tc
+   Métriques popularité: 1077 visites, 148 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Lignes PARA TC
+Dataset ID: 672300e40dcb9f1a3720e0e3
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      24              13             
+2026-04      43              7              
+2026-03      136             44             
+2026-02      244             30             
+2026-01      272             5              
+2025-12      45              7              
+2025-11      63              21             
+2025-10      10              0              
+2025-10      45              0              
+2025-09      50              0              
+2025-08      64              6              
+2025-07      81              15             
+------------------------------------------------------------
+Total        1,077           148            
+
+5. Paris 2024 - Lignes TC CER
+   ID: 672300e30dcb9f1a3720e0e0
+   Organization: Ministère chargé des Sports
+   Tags: accredites, mobilite, sport-jeunesse-et-vie-associative, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-lignes-tc-cer
+   Métriques popularité: 1153 visites, 142 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Lignes TC CER
+Dataset ID: 672300e30dcb9f1a3720e0e0
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      203             10             
+2026-04      28              4              
+2026-03      281             52             
+2026-02      317             32             
+2026-01      85              2              
+2025-12      20              8              
+2025-11      41              17             
+2025-10      3               0              
+2025-10      21              0              
+2025-09      44              0              
+2025-08      36              4              
+2025-07      74              13             
+------------------------------------------------------------
+Total        1,153           142            
+
+
+
+========== sport | page 13 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 13 of results:
+
+1. Paris 2024 - Calendrier des sessions [Version simplifiée ENG]
+   ID: 66db980bc2058393f170938f
+   Organization: Ministère chargé des Sports
+   Tags: calendrier, paris2024, sessions, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-calendrier-des-sessions-version-simplifiee-eng
+   Métriques popularité: 1291 visites, 545 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Calendrier des sessions [Version simplifiée ENG]
+Dataset ID: 66db980bc2058393f170938f
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      71              123            
+2026-04      62              59             
+2026-03      178             77             
+2026-02      181             34             
+2026-01      148             19             
+2025-12      94              33             
+2025-11      111             47             
+2025-10      5               1              
+2025-10      136             24             
+2025-09      128             43             
+2025-08      129             21             
+2025-07      48              64             
+------------------------------------------------------------
+Total        1,291           545            
+
+2. Paris 2024 - Zones de dépose reprise spectateurs
+   ID: 66db980cc2058393f1709394
+   Organization: Ministère chargé des Sports
+   Tags: mobilite, spectateurs, sport-jeunesse-et-vie-associative, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-zones-de-depose-reprise-spectateurs
+   Métriques popularité: 812 visites, 489 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Zones de dépose reprise spectateurs
+Dataset ID: 66db980cc2058393f1709394
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      69              119            
+2026-04      67              23             
+2026-03      63              94             
+2026-02      50              11             
+2026-01      183             14             
+2025-12      59              31             
+2025-11      71              70             
+2025-10      4               12             
+2025-10      97              7              
+2025-09      53              17             
+2025-08      52              37             
+2025-07      44              54             
+------------------------------------------------------------
+Total        812             489            
+
+3. Paris 2024 - Zones de dépose reprise PFR-PSH
+   ID: 66a04401d0330052a18e70b0
+   Organization: Ministère chargé des Sports
+   Tags: loadzone, mobilite, pfr, psh, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-zones-de-depose-reprise-pfr-psh
+   Métriques popularité: 941 visites, 394 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Zones de dépose reprise PFR-PSH
+Dataset ID: 66a04401d0330052a18e70b0
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      47              64             
+2026-04      68              28             
+2026-03      89              69             
+2026-02      107             5              
+2026-01      82              13             
+2025-12      82              71             
+2025-11      82              51             
+2025-10      115             18             
+2025-10      8               2              
+2025-09      75              20             
+2025-08      77              31             
+2025-07      109             22             
+------------------------------------------------------------
+Total        941             394            
+
+4. Activités de Sport Santé mises en place par la Ville d'Antibes
+   ID: 5e725417e06233005b060dfd
+   Description: Listes des activités sportives proposées dans le cadre des dispositifs Pass Formsanté et École municipale Handisport....
+   Organization: Ville d'Antibes
+   Tags: handicap, maison, maladie, physique, sante
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/activites-de-sport-sante-mises-en-place-par-la-ville-dantibes
+   Métriques popularité: 800 visites, 144 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Activités de Sport Santé mises en place par la Ville d'Antibes
+Dataset ID: 5e725417e06233005b060dfd
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      49              10             
+2026-04      50              8              
+2026-03      41              20             
+2026-02      46              6              
+2026-01      70              15             
+2025-12      77              31             
+2025-11      71              23             
+2025-10      102             13             
+2025-09      44              3              
+2025-08      86              4              
+2025-07      74              0              
+2025-06      90              11             
+------------------------------------------------------------
+Total        800             144            
+
+5. Cartes des sites - Venues POI (FR)
+   ID: 672300e10dcb9f1a3720e0d9
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative, wemap
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/cartes-des-sites-venues-poi-fr
+   Métriques popularité: 861 visites, 56 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Cartes des sites - Venues POI (FR)
+Dataset ID: 672300e10dcb9f1a3720e0d9
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      91              0              
+2026-04      38              10             
+2026-03      176             13             
+2026-02      108             0              
+2026-01      143             0              
+2025-12      50              5              
+2025-11      67              16             
+2025-10      4               0              
+2025-10      49              1              
+2025-09      19              0              
+2025-08      37              3              
+2025-07      79              8              
+------------------------------------------------------------
+Total        861             56             
+
+
+
+========== sport | page 14 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 14 of results:
+
+1. Covid 19 - points de situation nationaux
+   ID: 615457d093c2b34511706ee0
+   Organization: Ministères de l'Éducation nationale
+   Tags: covid-19, eleves-etudiants-et-apprentis, etablissements-dont-ips, sante
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/covid-19-points-de-situation-nationaux
+   Métriques popularité: 2185 visites, 3928 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Covid 19 - points de situation nationaux
+Dataset ID: 615457d093c2b34511706ee0
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      248             171            
+2026-04      179             362            
+2026-03      216             400            
+2026-02      219             298            
+2026-01      333             345            
+2025-12      112             339            
+2025-11      108             369            
+2025-10      110             317            
+2025-09      112             301            
+2025-08      129             312            
+2025-07      166             363            
+2025-06      253             351            
+------------------------------------------------------------
+Total        2,185           3,928          
+
+2. Paris 2024 - Itinéraires spectateurs HORS PARIS
+   ID: 672301040dcb9f1a3720e0ea
+   Organization: Ministère chargé des Sports
+   Tags: mobilite, spectateurs, sport-jeunesse-et-vie-associative, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-itineraires-spectateurs-hors-paris
+   Métriques popularité: 825 visites, 248 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Itinéraires spectateurs HORS PARIS
+Dataset ID: 672301040dcb9f1a3720e0ea
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      37              13             
+2026-04      47              17             
+2026-03      40              41             
+2026-02      39              105            
+2026-01      360             8              
+2025-12      36              7              
+2025-11      46              18             
+2025-10      5               0              
+2025-10      45              10             
+2025-09      37              5              
+2025-08      62              4              
+2025-07      71              20             
+------------------------------------------------------------
+Total        825             248            
+
+3. Paris 2024 - Lignes OLY TF
+   ID: 672300e20dcb9f1a3720e0db
+   Organization: Ministère chargé des Sports
+   Tags: accredites, mobilite, sport-jeunesse-et-vie-associative, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-lignes-oly-tf
+   Métriques popularité: 879 visites, 233 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Lignes OLY TF
+Dataset ID: 672300e20dcb9f1a3720e0db
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      46              17             
+2026-04      40              82             
+2026-03      64              49             
+2026-02      317             35             
+2026-01      161             4              
+2025-12      17              4              
+2025-11      28              12             
+2025-10      4               0              
+2025-10      34              8              
+2025-09      33              0              
+2025-08      35              3              
+2025-07      100             19             
+------------------------------------------------------------
+Total        879             233            
+
+4. Paris 2024 - Liste des athlètes engagés aux Jeux Olympiques et Paralympiques
+   ID: 672300fa0dcb9f1a3720e0e6
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-liste-des-athletes-engages-aux-jeux-olympiques-et-paralympiques
+   Métriques popularité: 1042 visites, 217 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Liste des athlètes engagés aux Jeux Olympiques et Paralympiques
+Dataset ID: 672300fa0dcb9f1a3720e0e6
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      67              33             
+2026-04      42              17             
+2026-03      196             26             
+2026-02      83              18             
+2026-01      60              15             
+2025-12      76              14             
+2025-11      81              23             
+2025-10      11              0              
+2025-10      96              11             
+2025-09      116             43             
+2025-08      81              3              
+2025-07      133             14             
+------------------------------------------------------------
+Total        1,042           217            
+
+5. Paris 2024 - Entrées Cérémonie d'ouverture Paralympique
+   ID: 672300e10dcb9f1a3720e0d7
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-entrees-ceremonie-douverture-paralympique
+   Métriques popularité: 939 visites, 134 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Entrées Cérémonie d'ouverture Paralympique
+Dataset ID: 672300e10dcb9f1a3720e0d7
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      84              15             
+2026-04      33              14             
+2026-03      171             32             
+2026-02      163             3              
+2026-01      60              1              
+2025-12      57              5              
+2025-11      48              22             
+2025-10      7               0              
+2025-10      46              6              
+2025-09      73              5              
+2025-08      99              8              
+2025-07      98              23             
+------------------------------------------------------------
+Total        939             134            
+
+
+
+========== sport | page 15 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 15 of results:
+
+1. Paris 2024 - Zones de dépose reprise accrédités et spectateurs
+   ID: 66db980ac2058393f170938d
+   Organization: Ministère chargé des Sports
+   Tags: loadzone, mobilite, sport-jeunesse-et-vie-associative, transport
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-zones-de-depose-reprise-accredites-et-spectateurs
+   Métriques popularité: 617 visites, 330 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Zones de dépose reprise accrédités et spectateurs
+Dataset ID: 66db980ac2058393f170938d
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      25              14             
+2026-04      58              52             
+2026-03      70              74             
+2026-02      36              2              
+2026-01      58              17             
+2025-12      38              21             
+2025-11      53              43             
+2025-10      2               0              
+2025-10      123             15             
+2025-09      58              21             
+2025-08      34              26             
+2025-07      62              45             
+------------------------------------------------------------
+Total        617             330            
+
+2. [IDFM] - Parkings relais Paris 2024 (FR)
+   ID: 672301020dcb9f1a3720e0e8
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/idfm-parkings-relais-paris-2024-fr
+   Métriques popularité: 742 visites, 256 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: [IDFM] - Parkings relais Paris 2024 (FR)
+Dataset ID: 672301020dcb9f1a3720e0e8
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      117             41             
+2026-04      42              23             
+2026-03      51              50             
+2026-02      67              37             
+2026-01      106             3              
+2025-12      58              10             
+2025-11      50              29             
+2025-10      7               1              
+2025-10      46              11             
+2025-09      34              16             
+2025-08      44              5              
+2025-07      120             30             
+------------------------------------------------------------
+Total        742             256            
+
+3. Paris 2024 - Cheminements parking vélo - PSA
+   ID: 672300e40dcb9f1a3720e0e2
+   Organization: Ministère chargé des Sports
+   Tags: mobilite, spectateurs, sport-jeunesse-et-vie-associative, transport, velo
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-cheminements-parking-velo-psa
+   Métriques popularité: 753 visites, 179 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Cheminements parking vélo - PSA
+Dataset ID: 672300e40dcb9f1a3720e0e2
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      125             37             
+2026-04      28              7              
+2026-03      67              42             
+2026-02      69              34             
+2026-01      130             4              
+2025-12      62              11             
+2025-11      66              21             
+2025-10      6               0              
+2025-10      35              1              
+2025-09      39              1              
+2025-08      71              6              
+2025-07      55              15             
+------------------------------------------------------------
+Total        753             179            
+
+4. Paris 2024 - Parkings PFR + taxi + TS
+   ID: 672300e30dcb9f1a3720e0de
+   Organization: Ministère chargé des Sports
+   Tags: mobilite, pfr, psh, spectateurs, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-parkings-pfr-taxi-ts
+   Métriques popularité: 717 visites, 121 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Parkings PFR + taxi + TS
+Dataset ID: 672300e30dcb9f1a3720e0de
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      29              30             
+2026-04      23              8              
+2026-03      30              19             
+2026-02      35              6              
+2026-01      267             5              
+2025-12      33              7              
+2025-11      79              22             
+2025-10      1               0              
+2025-10      28              0              
+2025-09      25              2              
+2025-08      39              9              
+2025-07      128             13             
+------------------------------------------------------------
+Total        717             121            
+
+5. Paris 2024 - Territoires labellisés "Terre de Jeux"
+   ID: 672301060dcb9f1a3720e0ed
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative, terre-de-jeux
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-territoires-labellises-terre-de-jeux
+   Métriques popularité: 532 visites, 70 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Territoires labellisés "Terre de Jeux"
+Dataset ID: 672301060dcb9f1a3720e0ed
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      23              11             
+2026-04      54              8              
+2026-03      31              10             
+2026-02      36              9              
+2026-01      87              2              
+2025-12      37              2              
+2025-11      81              11             
+2025-10      4               0              
+2025-10      43              1              
+2025-09      43              7              
+2025-08      44              0              
+2025-07      49              9              
+------------------------------------------------------------
+Total        532             70             
+
+
+
+========== sport | page 16 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 16 of results:
+
+1. Effectifs d'étudiants inscrits dans les établissements et les formations de l'enseignement supérieur - détail par établissements
+   ID: 64c32f4c52f14d3bf32acfeb
+   Organization: Ministère de l'Enseignement supérieur, de la Recherche et de l'Espace
+   Tags: academie, academies, atlas, atlas-etudiants, commune
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/effectifs-detudiants-inscrits-dans-les-etablissements-et-les-formations-de-lenseignement-superieur-detail-par-etablissements
+   Métriques popularité: 20057 visites, 3163 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Effectifs d'étudiants inscrits dans les établissements et les formations de l'enseignement supérieur - détail par établissements
+Dataset ID: 64c32f4c52f14d3bf32acfeb
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      1,802           238            
+2026-04      1,491           294            
+2026-03      1,840           370            
+2026-02      1,821           357            
+2026-01      2,079           401            
+2025-12      1,981           271            
+2025-11      2,243           331            
+2025-10      1,808           319            
+2025-09      1,423           198            
+2025-08      1,112           78             
+2025-07      971             158            
+2025-06      1,486           148            
+------------------------------------------------------------
+Total        20,057          3,163          
+
+2. Effectifs d’étudiants inscrits dans les établissements et les formations de l’enseignement supérieur
+   ID: 53699373a3a729239d2041c4
+   Organization: Ministère de l'Enseignement supérieur, de la Recherche et de l'Espace
+   Tags: academie, atlas, commune, cpge, departement
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/effectifs-d-etudiants-inscrits-dans-les-etablissements-et-les-formations-de-l-enseignement-superie-0
+   Métriques popularité: 3245 visites, 922 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Effectifs d’étudiants inscrits dans les établissements et les formations de l’enseignement supérieur
+Dataset ID: 53699373a3a729239d2041c4
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      556             124            
+2026-04      412             80             
+2026-03      219             93             
+2026-02      205             77             
+2026-01      301             127            
+2025-12      201             61             
+2025-11      272             78             
+2025-10      264             69             
+2025-09      219             41             
+2025-08      158             50             
+2025-07      173             59             
+2025-06      265             63             
+------------------------------------------------------------
+Total        3,245           922            
+
+3. Subventions « Equipements sportifs » allouées en 2015 dans le cadre de la Dotation d’Equipement des Territoires Ruraux  - DETR
+   ID: 57d580c4c751df5b9397bae5
+   Organization: Ministère chargé des Sports
+   Tags: aides-publiques, detr, dge, dotation, dotation-d-equipement-des-territ
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/subventions-equipements-sportifs-allouees-en-2015-dans-le-cadre-de-la-dotation-dequipement-des-territoires-ruraux-detr
+   Métriques popularité: 786 visites, 379 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Subventions « Equipements sportifs » allouées en 2015 dans le cadre de la Dotation d’Equipement des Territoires Ruraux  - DETR
+Dataset ID: 57d580c4c751df5b9397bae5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      40              27             
+2026-04      35              47             
+2026-03      35              26             
+2026-02      52              29             
+2026-01      82              37             
+2025-12      75              36             
+2025-11      68              26             
+2025-10      61              56             
+2025-09      70              37             
+2025-08      57              26             
+2025-07      71              10             
+2025-06      140             22             
+------------------------------------------------------------
+Total        786             379            
+
+4. Paris 2024 - Entrées Cérémonie d'ouverture Olympique
+   ID: 6724526f5b7941646d20e0d7
+   Organization: Ministère chargé des Sports
+   Tags: sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-entrees-ceremonie-douverture-olympique
+   Métriques popularité: 497 visites, 111 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Entrées Cérémonie d'ouverture Olympique
+Dataset ID: 6724526f5b7941646d20e0d7
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      29              10             
+2026-04      25              10             
+2026-03      43              21             
+2026-02      32              7              
+2026-01      85              9              
+2025-12      43              7              
+2025-11      54              18             
+2025-10      23              2              
+2025-10      4               1              
+2025-09      46              1              
+2025-08      42              8              
+2025-07      71              17             
+------------------------------------------------------------
+Total        497             111            
+
+5. Paris 2024 - Messages chatbot centre de contact grand public
+   ID: 672300f50dcb9f1a3720e0e5
+   Organization: Ministère chargé des Sports
+   Tags: chatbot, messages, sport-jeunesse-et-vie-associative
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/paris-2024-messages-chatbot-centre-de-contact-grand-public
+   Métriques popularité: 905 visites, 94 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Paris 2024 - Messages chatbot centre de contact grand public
+Dataset ID: 672300f50dcb9f1a3720e0e5
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      52              20             
+2026-04      144             10             
+2026-03      60              13             
+2026-02      68              5              
+2026-01      56              3              
+2025-12      53              11             
+2025-11      81              11             
+2025-10      12              1              
+2025-10      75              4              
+2025-09      84              4              
+2025-08      93              5              
+2025-07      127             7              
+------------------------------------------------------------
+Total        905             94             
+
+
+
+========== sport | page 18 ==========
+Found 1111 dataset(s) for query: 'sport'
+Page 18 of results:
+
+1. Consommation de programmes sportifs -  Baromètre
+   ID: 6810d6a6fb4b944659a43800
+   Organization: Arcom - Autorité de Régulation de la Communication Audiovisuelle et Numérique
+   Tags: arcom, barometre, consommation-illicite, evenements-dimportance-majeure, internet
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/consommation-de-programmes-sportifs-barometre
+   Métriques popularité: 2849 visites, 1087 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Consommation de programmes sportifs -  Baromètre
+Dataset ID: 6810d6a6fb4b944659a43800
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      464             222            
+2026-04      188             102            
+2026-03      315             68             
+2026-02      307             136            
+2026-01      443             31             
+2025-12      164             234            
+2025-11      181             68             
+2025-10      150             44             
+2025-09      135             31             
+2025-08      170             93             
+2025-07      176             34             
+2025-06      156             24             
+------------------------------------------------------------
+Total        2,849           1,087          
+
+2. Wholesale Market
+   ID: 59848abdc751df72f1012614
+   Organization: Réseau de Transport d'Electricité
+   Tags: epex-spot, marche
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/wholesale-market
+   Métriques popularité: 3875 visites, 729 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Wholesale Market
+Dataset ID: 59848abdc751df72f1012614
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      269             41             
+2026-04      228             56             
+2026-03      364             58             
+2026-02      408             102            
+2026-01      431             112            
+2025-12      419             61             
+2025-11      313             41             
+2025-10      372             57             
+2025-09      257             43             
+2025-08      218             42             
+2025-07      275             58             
+2025-06      321             58             
+------------------------------------------------------------
+Total        3,875           729            
+
+3. Equipements - Terrains de Sport (2018) en Loir-et-Cher
+   ID: 67377b4a8705bc2edfc2549f
+   Organization: Direction Départementale des Territoires de Loir-et-Cher
+   Tags: culture-societe-service-equipement-sportif-ou-culturel, donnees-ouvertes, i-sport, inspire, services-dutilite-publique-et-services-publics
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/equipements-terrains-de-sport-2018-en-loir-et-cher
+   Métriques popularité: 362 visites, 87 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Equipements - Terrains de Sport (2018) en Loir-et-Cher
+Dataset ID: 67377b4a8705bc2edfc2549f
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      14              16             
+2026-04      22              0              
+2026-03      22              21             
+2026-02      28              2              
+2026-01      25              0              
+2025-12      16              0              
+2025-11      14              0              
+2025-10      26              18             
+2025-09      51              0              
+2025-08      47              11             
+2025-07      60              12             
+2025-06      37              7              
+------------------------------------------------------------
+Total        362             87             
+
+4. Base Permanente de Equipements INSEE géolocalisés - Sport et loisir - Auvergne-Rhône-Alpes
+   ID: 684c4c3d45e1b1cfad52b656
+   Organization: DREAL Auvergne-Rhône-Alpes
+   Tags: auvergne-rhone-alpes, dreal-auvergne-rhone-alpes, grand-public, inspire, services-dutilite-publique-et-services-publics
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/base-permanente-de-equipements-insee-geolocalises-sport-et-loisir-auvergne-rhone-alpes
+   Métriques popularité: 574 visites, 66 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Base Permanente de Equipements INSEE géolocalisés - Sport et loisir - Auvergne-Rhône-Alpes
+Dataset ID: 684c4c3d45e1b1cfad52b656
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      70              7              
+2026-04      42              6              
+2026-03      46              19             
+2026-02      68              3              
+2026-01      51              9              
+2025-12      51              3              
+2025-11      65              5              
+2025-10      50              3              
+2025-09      40              2              
+2025-08      28              5              
+2025-07      42              2              
+2025-06      21              2              
+------------------------------------------------------------
+Total        574             66             
+
+5. Etablissements SIRENE R Culture sport et loisir sur Auvergne-Rhône-Alpes
+   ID: 684c4c4445e1b1cfad52b66b
+   Organization: DREAL Auvergne-Rhône-Alpes
+   Tags: auvergne-rhone-alpes, donnees-ouvertes, dreal-auvergne-rhone-alpes, economie, grand-public
+   Resources: 4
+   URL: https://www.data.gouv.fr/datasets/etablissements-sirene-r-culture-sport-et-loisir-sur-auvergne-rhone-alpes-1
+   Métriques popularité: 430 visites, 15 téléchargements (total)
+--- Détail téléchargements / visites ---
+Dataset Metrics: Etablissements SIRENE R Culture sport et loisir sur Auvergne-Rhône-Alpes
+Dataset ID: 684c4c4445e1b1cfad52b66b
+
+Monthly Statistics:
+------------------------------------------------------------
+Month        Visits          Downloads      
+------------------------------------------------------------
+2026-05      38              3              
+2026-04      67              0              
+2026-03      27              3              
+2026-02      30              0              
+2026-01      23              1              
+2025-12      25              1              
+2025-11      76              0              
+2025-10      27              0              
+2025-09      29              0              
+2025-08      15              0              
+2025-07      55              5              
+2025-06      18              2              
+------------------------------------------------------------
+Total        430             15             
+
+
