@@ -2,6 +2,7 @@
 *
 
 !README.md
+!LICENSE
 !docs/
 !docs/**
 !mcp-datagouv-enhanced/
@@ -13,3 +14,16 @@
 **/__pycache__/
 **/*.py[cod]
 **/.pytest_cache/
+**/.ruff_cache/
+**/.venv/
+**/.env
+**/.env.*
+!**/.env.example
+**/dataset/result_*.txt
+**/dataset/relevance_scores.json
+**/dataset/ranking_report.md
+**/api/result_*.txt
+**/api/relevance_scores.json
+**/api/ranking_report.md
+**/ranking_report.md
+**/ranking_report.json
