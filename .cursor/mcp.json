@@ -2,8 +2,7 @@
   "mcpServers": {
     "datagouv-enhanced": {
       "command": "uv",
-      "args": ["run", "server.py"],
-      "cwd": "${workspaceFolder}/mcp-datagouv-enhanced"
+      "args": ["run", "--directory", "mcp-datagouv-enhanced", "python", "server.py"]
     }
   }
 }
