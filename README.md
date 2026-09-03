@@ -38,10 +38,10 @@ Le fichier `.env` est local et ne doit jamais être publié. Le fichier `.env.ex
 Le serveur utilise le transport stdio :
 
 ```powershell
-uv run server.py
+uv run --directory mcp-datagouv-enhanced python server.py
 ```
 
-Pour Cursor, le fichier `.cursor/mcp.json` est déjà configuré pour lancer `uv run server.py` dans le bon dossier. Ouvre la racine du dépôt dans Cursor, puis utilise un agent MCP.
+Pour Cursor, le fichier `.cursor/mcp.json` lance `uv run --directory mcp-datagouv-enhanced python server.py` depuis la racine du dépôt. Recharge le serveur MCP après un changement de config.
 
 ## Utilisation
 
